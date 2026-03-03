@@ -1,0 +1,31 @@
+{
+  "name": "react-wfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild main.tsx --bundle --outfile=static/bundle.js --format=iife --sourcemap",
+    "watch": "esbuild main.tsx --bundle --outfile=static/bundle.js --format=iife --sourcemap --watch",
+    "build:pages:bundle": "esbuild main.tsx --bundle --outfile=dist/static/bundle.js --format=iife --minify",
+    "build:pages": "npm run build:pages:bundle && node scripts/build-pages.cjs",
+    "predeploy": "npm run build:pages",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "esbuild": "^0.27.3",
+    "gh-pages": "^6.3.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "lucide-react": "^0.575.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
