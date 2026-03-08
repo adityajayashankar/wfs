@@ -21613,25 +21613,59 @@
     }
   });
 
+  // node_modules/lucide-react/dist/esm/icons/arrow-left-right.js
+  var __iconNode2, ArrowLeftRight;
+  var init_arrow_left_right = __esm({
+    "node_modules/lucide-react/dist/esm/icons/arrow-left-right.js"() {
+      init_createLucideIcon();
+      __iconNode2 = [
+        ["path", { d: "M8 3 4 7l4 4", key: "9rb6wj" }],
+        ["path", { d: "M4 7h16", key: "6tx8e3" }],
+        ["path", { d: "m16 21 4-4-4-4", key: "siv7j2" }],
+        ["path", { d: "M20 17H4", key: "h6l3hr" }]
+      ];
+      ArrowLeftRight = createLucideIcon("arrow-left-right", __iconNode2);
+    }
+  });
+
   // node_modules/lucide-react/dist/esm/icons/arrow-right.js
-  var __iconNode2, ArrowRight;
+  var __iconNode3, ArrowRight;
   var init_arrow_right = __esm({
     "node_modules/lucide-react/dist/esm/icons/arrow-right.js"() {
       init_createLucideIcon();
-      __iconNode2 = [
+      __iconNode3 = [
         ["path", { d: "M5 12h14", key: "1ays0h" }],
         ["path", { d: "m12 5 7 7-7 7", key: "xquz4c" }]
       ];
-      ArrowRight = createLucideIcon("arrow-right", __iconNode2);
+      ArrowRight = createLucideIcon("arrow-right", __iconNode3);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/blocks.js
+  var __iconNode4, Blocks;
+  var init_blocks = __esm({
+    "node_modules/lucide-react/dist/esm/icons/blocks.js"() {
+      init_createLucideIcon();
+      __iconNode4 = [
+        [
+          "path",
+          {
+            d: "M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2",
+            key: "1ah6g2"
+          }
+        ],
+        ["rect", { x: "14", y: "2", width: "8", height: "8", rx: "1", key: "88lufb" }]
+      ];
+      Blocks = createLucideIcon("blocks", __iconNode4);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/brain.js
-  var __iconNode3, Brain;
+  var __iconNode5, Brain;
   var init_brain = __esm({
     "node_modules/lucide-react/dist/esm/icons/brain.js"() {
       init_createLucideIcon();
-      __iconNode3 = [
+      __iconNode5 = [
         ["path", { d: "M12 18V5", key: "adv99a" }],
         ["path", { d: "M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4", key: "1e3is1" }],
         ["path", { d: "M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5", key: "1gqd8o" }],
@@ -21641,16 +21675,30 @@
         ["path", { d: "M6 18a4 4 0 0 1-2-7.464", key: "k1g0md" }],
         ["path", { d: "M6.003 5.125a4 4 0 0 0-2.526 5.77", key: "q97ue3" }]
       ];
-      Brain = createLucideIcon("brain", __iconNode3);
+      Brain = createLucideIcon("brain", __iconNode5);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/circle-alert.js
+  var __iconNode6, CircleAlert;
+  var init_circle_alert = __esm({
+    "node_modules/lucide-react/dist/esm/icons/circle-alert.js"() {
+      init_createLucideIcon();
+      __iconNode6 = [
+        ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
+        ["line", { x1: "12", x2: "12", y1: "8", y2: "12", key: "1pkeuh" }],
+        ["line", { x1: "12", x2: "12.01", y1: "16", y2: "16", key: "4dfq90" }]
+      ];
+      CircleAlert = createLucideIcon("circle-alert", __iconNode6);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/cpu.js
-  var __iconNode4, Cpu;
+  var __iconNode7, Cpu;
   var init_cpu = __esm({
     "node_modules/lucide-react/dist/esm/icons/cpu.js"() {
       init_createLucideIcon();
-      __iconNode4 = [
+      __iconNode7 = [
         ["path", { d: "M12 20v2", key: "1lh1kg" }],
         ["path", { d: "M12 2v2", key: "tus03m" }],
         ["path", { d: "M17 20v2", key: "1rnc9c" }],
@@ -21666,30 +21714,46 @@
         ["rect", { x: "4", y: "4", width: "16", height: "16", rx: "2", key: "1vbyd7" }],
         ["rect", { x: "8", y: "8", width: "8", height: "8", rx: "1", key: "z9xiuo" }]
       ];
-      Cpu = createLucideIcon("cpu", __iconNode4);
+      Cpu = createLucideIcon("cpu", __iconNode7);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/database-zap.js
+  var __iconNode8, DatabaseZap;
+  var init_database_zap = __esm({
+    "node_modules/lucide-react/dist/esm/icons/database-zap.js"() {
+      init_createLucideIcon();
+      __iconNode8 = [
+        ["ellipse", { cx: "12", cy: "5", rx: "9", ry: "3", key: "msslwz" }],
+        ["path", { d: "M3 5V19A9 3 0 0 0 15 21.84", key: "14ibmq" }],
+        ["path", { d: "M21 5V8", key: "1marbg" }],
+        ["path", { d: "M21 12L18 17H22L19 22", key: "zafso" }],
+        ["path", { d: "M3 12A9 3 0 0 0 14.59 14.87", key: "1y4wr8" }]
+      ];
+      DatabaseZap = createLucideIcon("database-zap", __iconNode8);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/database.js
-  var __iconNode5, Database;
+  var __iconNode9, Database;
   var init_database = __esm({
     "node_modules/lucide-react/dist/esm/icons/database.js"() {
       init_createLucideIcon();
-      __iconNode5 = [
+      __iconNode9 = [
         ["ellipse", { cx: "12", cy: "5", rx: "9", ry: "3", key: "msslwz" }],
         ["path", { d: "M3 5V19A9 3 0 0 0 21 19V5", key: "1wlel7" }],
         ["path", { d: "M3 12A9 3 0 0 0 21 12", key: "mv7ke4" }]
       ];
-      Database = createLucideIcon("database", __iconNode5);
+      Database = createLucideIcon("database", __iconNode9);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/file-braces.js
-  var __iconNode6, FileBraces;
+  var __iconNode10, FileBraces;
   var init_file_braces = __esm({
     "node_modules/lucide-react/dist/esm/icons/file-braces.js"() {
       init_createLucideIcon();
-      __iconNode6 = [
+      __iconNode10 = [
         [
           "path",
           {
@@ -21707,30 +21771,85 @@
           { d: "M14 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1", key: "mpwhp6" }
         ]
       ];
-      FileBraces = createLucideIcon("file-braces", __iconNode6);
+      FileBraces = createLucideIcon("file-braces", __iconNode10);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/file-text.js
+  var __iconNode11, FileText;
+  var init_file_text = __esm({
+    "node_modules/lucide-react/dist/esm/icons/file-text.js"() {
+      init_createLucideIcon();
+      __iconNode11 = [
+        [
+          "path",
+          {
+            d: "M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z",
+            key: "1oefj6"
+          }
+        ],
+        ["path", { d: "M14 2v5a1 1 0 0 0 1 1h5", key: "wfsgrz" }],
+        ["path", { d: "M10 9H8", key: "b1mrlr" }],
+        ["path", { d: "M16 13H8", key: "t4e002" }],
+        ["path", { d: "M16 17H8", key: "z1uh3a" }]
+      ];
+      FileText = createLucideIcon("file-text", __iconNode11);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/funnel.js
+  var __iconNode12, Funnel;
+  var init_funnel = __esm({
+    "node_modules/lucide-react/dist/esm/icons/funnel.js"() {
+      init_createLucideIcon();
+      __iconNode12 = [
+        [
+          "path",
+          {
+            d: "M10 20a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341L21.74 4.67A1 1 0 0 0 21 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14z",
+            key: "sc7q7i"
+          }
+        ]
+      ];
+      Funnel = createLucideIcon("funnel", __iconNode12);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/git-merge.js
-  var __iconNode7, GitMerge;
+  var __iconNode13, GitMerge;
   var init_git_merge = __esm({
     "node_modules/lucide-react/dist/esm/icons/git-merge.js"() {
       init_createLucideIcon();
-      __iconNode7 = [
+      __iconNode13 = [
         ["circle", { cx: "18", cy: "18", r: "3", key: "1xkwt0" }],
         ["circle", { cx: "6", cy: "6", r: "3", key: "1lh9wr" }],
         ["path", { d: "M6 21V9a9 9 0 0 0 9 9", key: "7kw0sc" }]
       ];
-      GitMerge = createLucideIcon("git-merge", __iconNode7);
+      GitMerge = createLucideIcon("git-merge", __iconNode13);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/git-pull-request.js
+  var __iconNode14, GitPullRequest;
+  var init_git_pull_request = __esm({
+    "node_modules/lucide-react/dist/esm/icons/git-pull-request.js"() {
+      init_createLucideIcon();
+      __iconNode14 = [
+        ["circle", { cx: "18", cy: "18", r: "3", key: "1xkwt0" }],
+        ["circle", { cx: "6", cy: "6", r: "3", key: "1lh9wr" }],
+        ["path", { d: "M13 6h3a2 2 0 0 1 2 2v7", key: "1yeb86" }],
+        ["line", { x1: "6", x2: "6", y1: "9", y2: "21", key: "rroup" }]
+      ];
+      GitPullRequest = createLucideIcon("git-pull-request", __iconNode14);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/layers.js
-  var __iconNode8, Layers;
+  var __iconNode15, Layers;
   var init_layers = __esm({
     "node_modules/lucide-react/dist/esm/icons/layers.js"() {
       init_createLucideIcon();
-      __iconNode8 = [
+      __iconNode15 = [
         [
           "path",
           {
@@ -21753,16 +21872,30 @@
           }
         ]
       ];
-      Layers = createLucideIcon("layers", __iconNode8);
+      Layers = createLucideIcon("layers", __iconNode15);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/layout-template.js
+  var __iconNode16, LayoutTemplate;
+  var init_layout_template = __esm({
+    "node_modules/lucide-react/dist/esm/icons/layout-template.js"() {
+      init_createLucideIcon();
+      __iconNode16 = [
+        ["rect", { width: "18", height: "7", x: "3", y: "3", rx: "1", key: "f1a2em" }],
+        ["rect", { width: "9", height: "7", x: "3", y: "14", rx: "1", key: "jqznyg" }],
+        ["rect", { width: "5", height: "7", x: "16", y: "14", rx: "1", key: "q5h2i8" }]
+      ];
+      LayoutTemplate = createLucideIcon("layout-template", __iconNode16);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/message-square.js
-  var __iconNode9, MessageSquare;
+  var __iconNode17, MessageSquare;
   var init_message_square = __esm({
     "node_modules/lucide-react/dist/esm/icons/message-square.js"() {
       init_createLucideIcon();
-      __iconNode9 = [
+      __iconNode17 = [
         [
           "path",
           {
@@ -21771,76 +21904,96 @@
           }
         ]
       ];
-      MessageSquare = createLucideIcon("message-square", __iconNode9);
+      MessageSquare = createLucideIcon("message-square", __iconNode17);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/network.js
-  var __iconNode10, Network;
+  var __iconNode18, Network;
   var init_network = __esm({
     "node_modules/lucide-react/dist/esm/icons/network.js"() {
       init_createLucideIcon();
-      __iconNode10 = [
+      __iconNode18 = [
         ["rect", { x: "16", y: "16", width: "6", height: "6", rx: "1", key: "4q2zg0" }],
         ["rect", { x: "2", y: "16", width: "6", height: "6", rx: "1", key: "8cvhb9" }],
         ["rect", { x: "9", y: "2", width: "6", height: "6", rx: "1", key: "1egb70" }],
         ["path", { d: "M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3", key: "1jsf9p" }],
         ["path", { d: "M12 12V8", key: "2874zd" }]
       ];
-      Network = createLucideIcon("network", __iconNode10);
+      Network = createLucideIcon("network", __iconNode18);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/search.js
-  var __iconNode11, Search;
+  var __iconNode19, Search;
   var init_search = __esm({
     "node_modules/lucide-react/dist/esm/icons/search.js"() {
       init_createLucideIcon();
-      __iconNode11 = [
+      __iconNode19 = [
         ["path", { d: "m21 21-4.34-4.34", key: "14j7rj" }],
         ["circle", { cx: "11", cy: "11", r: "8", key: "4ej97u" }]
       ];
-      Search = createLucideIcon("search", __iconNode11);
+      Search = createLucideIcon("search", __iconNode19);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/server.js
-  var __iconNode12, Server;
+  var __iconNode20, Server;
   var init_server = __esm({
     "node_modules/lucide-react/dist/esm/icons/server.js"() {
       init_createLucideIcon();
-      __iconNode12 = [
+      __iconNode20 = [
         ["rect", { width: "20", height: "8", x: "2", y: "2", rx: "2", ry: "2", key: "ngkwjq" }],
         ["rect", { width: "20", height: "8", x: "2", y: "14", rx: "2", ry: "2", key: "iecqi9" }],
         ["line", { x1: "6", x2: "6.01", y1: "6", y2: "6", key: "16zg32" }],
         ["line", { x1: "6", x2: "6.01", y1: "18", y2: "18", key: "nzw8ys" }]
       ];
-      Server = createLucideIcon("server", __iconNode12);
+      Server = createLucideIcon("server", __iconNode20);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/share-2.js
-  var __iconNode13, Share2;
+  var __iconNode21, Share2;
   var init_share_2 = __esm({
     "node_modules/lucide-react/dist/esm/icons/share-2.js"() {
       init_createLucideIcon();
-      __iconNode13 = [
+      __iconNode21 = [
         ["circle", { cx: "18", cy: "5", r: "3", key: "gq8acd" }],
         ["circle", { cx: "6", cy: "12", r: "3", key: "w7nqdw" }],
         ["circle", { cx: "18", cy: "19", r: "3", key: "1xt0gg" }],
         ["line", { x1: "8.59", x2: "15.42", y1: "13.51", y2: "17.49", key: "47mynk" }],
         ["line", { x1: "15.41", x2: "8.59", y1: "6.51", y2: "10.49", key: "1n3mei" }]
       ];
-      Share2 = createLucideIcon("share-2", __iconNode13);
+      Share2 = createLucideIcon("share-2", __iconNode21);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/shield-alert.js
+  var __iconNode22, ShieldAlert;
+  var init_shield_alert = __esm({
+    "node_modules/lucide-react/dist/esm/icons/shield-alert.js"() {
+      init_createLucideIcon();
+      __iconNode22 = [
+        [
+          "path",
+          {
+            d: "M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",
+            key: "oel41y"
+          }
+        ],
+        ["path", { d: "M12 8v4", key: "1got3b" }],
+        ["path", { d: "M12 16h.01", key: "1drbdi" }]
+      ];
+      ShieldAlert = createLucideIcon("shield-alert", __iconNode22);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/shield-check.js
-  var __iconNode14, ShieldCheck;
+  var __iconNode23, ShieldCheck;
   var init_shield_check = __esm({
     "node_modules/lucide-react/dist/esm/icons/shield-check.js"() {
       init_createLucideIcon();
-      __iconNode14 = [
+      __iconNode23 = [
         [
           "path",
           {
@@ -21850,29 +22003,74 @@
         ],
         ["path", { d: "m9 12 2 2 4-4", key: "dzmm74" }]
       ];
-      ShieldCheck = createLucideIcon("shield-check", __iconNode14);
+      ShieldCheck = createLucideIcon("shield-check", __iconNode23);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/terminal.js
-  var __iconNode15, Terminal;
+  var __iconNode24, Terminal;
   var init_terminal = __esm({
     "node_modules/lucide-react/dist/esm/icons/terminal.js"() {
       init_createLucideIcon();
-      __iconNode15 = [
+      __iconNode24 = [
         ["path", { d: "M12 19h8", key: "baeox8" }],
         ["path", { d: "m4 17 6-6-6-6", key: "1yngyt" }]
       ];
-      Terminal = createLucideIcon("terminal", __iconNode15);
+      Terminal = createLucideIcon("terminal", __iconNode24);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/user.js
+  var __iconNode25, User;
+  var init_user = __esm({
+    "node_modules/lucide-react/dist/esm/icons/user.js"() {
+      init_createLucideIcon();
+      __iconNode25 = [
+        ["path", { d: "M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2", key: "975kel" }],
+        ["circle", { cx: "12", cy: "7", r: "4", key: "17ys0d" }]
+      ];
+      User = createLucideIcon("user", __iconNode25);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/workflow.js
+  var __iconNode26, Workflow;
+  var init_workflow = __esm({
+    "node_modules/lucide-react/dist/esm/icons/workflow.js"() {
+      init_createLucideIcon();
+      __iconNode26 = [
+        ["rect", { width: "8", height: "8", x: "3", y: "3", rx: "2", key: "by2w9f" }],
+        ["path", { d: "M7 11v4a2 2 0 0 0 2 2h4", key: "xkn7yn" }],
+        ["rect", { width: "8", height: "8", x: "13", y: "13", rx: "2", key: "1cgmvn" }]
+      ];
+      Workflow = createLucideIcon("workflow", __iconNode26);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/wrench.js
+  var __iconNode27, Wrench;
+  var init_wrench = __esm({
+    "node_modules/lucide-react/dist/esm/icons/wrench.js"() {
+      init_createLucideIcon();
+      __iconNode27 = [
+        [
+          "path",
+          {
+            d: "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.106-3.105c.32-.322.863-.22.983.218a6 6 0 0 1-8.259 7.057l-7.91 7.91a1 1 0 0 1-2.999-3l7.91-7.91a6 6 0 0 1 7.057-8.259c.438.12.54.662.219.984z",
+            key: "1ngwbx"
+          }
+        ]
+      ];
+      Wrench = createLucideIcon("wrench", __iconNode27);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/zap.js
-  var __iconNode16, Zap;
+  var __iconNode28, Zap;
   var init_zap = __esm({
     "node_modules/lucide-react/dist/esm/icons/zap.js"() {
       init_createLucideIcon();
-      __iconNode16 = [
+      __iconNode28 = [
         [
           "path",
           {
@@ -21881,34 +22079,96 @@
           }
         ]
       ];
-      Zap = createLucideIcon("zap", __iconNode16);
+      Zap = createLucideIcon("zap", __iconNode28);
     }
   });
 
   // node_modules/lucide-react/dist/esm/lucide-react.js
   var init_lucide_react = __esm({
     "node_modules/lucide-react/dist/esm/lucide-react.js"() {
+      init_circle_alert();
       init_file_braces();
+      init_funnel();
       init_layers();
       init_activity();
+      init_arrow_left_right();
       init_arrow_right();
+      init_blocks();
       init_brain();
       init_cpu();
+      init_database_zap();
       init_database();
+      init_file_text();
       init_git_merge();
+      init_git_pull_request();
+      init_layout_template();
       init_message_square();
       init_network();
       init_search();
       init_server();
       init_share_2();
+      init_shield_alert();
       init_shield_check();
       init_terminal();
+      init_user();
+      init_workflow();
+      init_wrench();
       init_zap();
     }
   });
 
   // workflow_v1.tsx
   function App() {
+    const [activeView, setActiveView] = (0, import_react3.useState)("architecture");
+    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "min-h-screen bg-[#06090f] text-slate-300 font-sans selection:bg-blue-500/30 overflow-hidden flex flex-col" }, /* @__PURE__ */ import_react3.default.createElement("style", { dangerouslySetInnerHTML: { __html: `
+        @keyframes dash { to { stroke-dashoffset: -24; } }
+        .bg-grid-pattern {
+          background-size: 40px 40px;
+          background-image: 
+            linear-gradient(to right, rgba(255,255,255,0.02) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(255,255,255,0.02) 1px, transparent 1px);
+        }
+      ` } }), /* @__PURE__ */ import_react3.default.createElement("header", { className: "flex flex-col border-b border-slate-800/80 sticky top-0 z-50 bg-[#0a0f1a]/90 backdrop-blur-md" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center justify-between px-6 py-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-3" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-2 bg-blue-500/10 rounded-lg border border-blue-500/20" }, /* @__PURE__ */ import_react3.default.createElement(Layers, { className: "w-5 h-5 text-blue-400" })), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h1", { className: "text-lg font-semibold text-slate-100 leading-tight" }, "Vulnerability GraphRAG Architecture"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xs text-slate-400" }, "Detailed Systems & Flow Specifications"))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-4 text-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-2" }, /* @__PURE__ */ import_react3.default.createElement("span", { className: "relative flex h-2.5 w-2.5" }, /* @__PURE__ */ import_react3.default.createElement("span", { className: "animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500" })), /* @__PURE__ */ import_react3.default.createElement("span", { className: "text-slate-400" }, "System Live")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "px-3 py-1.5 bg-slate-800/50 border border-slate-700 rounded-md flex items-center space-x-2 shadow-inner" }, /* @__PURE__ */ import_react3.default.createElement(Activity, { className: "w-4 h-4 text-slate-400" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "font-mono text-xs text-slate-300" }, "Latency: 42ms")))), /* @__PURE__ */ import_react3.default.createElement("nav", { className: "flex items-center px-6 space-x-1 border-t border-slate-800/50 bg-[#080c14]" }, /* @__PURE__ */ import_react3.default.createElement(
+      NavButton,
+      {
+        active: activeView === "architecture",
+        onClick: () => setActiveView("architecture"),
+        icon: LayoutTemplate,
+        label: "Agent Architecture"
+      }
+    ), /* @__PURE__ */ import_react3.default.createElement(
+      NavButton,
+      {
+        active: activeView === "sequence",
+        onClick: () => setActiveView("sequence"),
+        icon: ArrowLeftRight,
+        label: "Execution Flow"
+      }
+    ), /* @__PURE__ */ import_react3.default.createElement(
+      NavButton,
+      {
+        active: activeView === "pipeline",
+        onClick: () => setActiveView("pipeline"),
+        icon: GitPullRequest,
+        label: "Data Pipeline"
+      }
+    ))), /* @__PURE__ */ import_react3.default.createElement("main", { className: "flex-1 relative bg-grid-pattern overflow-auto" }, activeView === "architecture" && /* @__PURE__ */ import_react3.default.createElement(DiagramView, { nodes: ARCH_NODES, edges: ARCH_EDGES, viewType: "arch" }), activeView === "pipeline" && /* @__PURE__ */ import_react3.default.createElement(DiagramView, { nodes: PIPE_NODES, edges: PIPE_EDGES, viewType: "pipeline" }), activeView === "sequence" && /* @__PURE__ */ import_react3.default.createElement(SequenceDiagramView, null)));
+  }
+  function NavButton({ active, onClick, icon: Icon2, label }) {
+    return /* @__PURE__ */ import_react3.default.createElement(
+      "button",
+      {
+        onClick,
+        className: `
+        flex items-center space-x-2 px-5 py-3 text-sm font-medium border-b-2 transition-all duration-200
+        ${active ? "border-blue-500 text-blue-400 bg-blue-500/5" : "border-transparent text-slate-400 hover:text-slate-200 hover:bg-white/5"}
+      `
+      },
+      /* @__PURE__ */ import_react3.default.createElement(Icon2, { className: "w-4 h-4" }),
+      /* @__PURE__ */ import_react3.default.createElement("span", null, label)
+    );
+  }
+  function DiagramView({ nodes, edges, viewType }) {
     const containerRef = (0, import_react3.useRef)(null);
     const nodeRefs = (0, import_react3.useRef)({});
     const [lines, setLines] = (0, import_react3.useState)([]);
@@ -21917,7 +22177,7 @@
       if (!containerRef.current) return;
       const containerRect = containerRef.current.getBoundingClientRect();
       const newLines = [];
-      EDGES.forEach((edge, index) => {
+      edges.forEach((edge, index) => {
         const sourceNode = nodeRefs.current[edge.source];
         const targetNode = nodeRefs.current[edge.target];
         if (sourceNode && targetNode) {
@@ -21942,28 +22202,26 @@
                 stroke: isActive ? "#3b82f6" : "#334155",
                 strokeWidth: isActive ? "2.5" : "1.5",
                 strokeDasharray: edge.dashed ? "6,6" : "none",
-                className: `
-                ${edge.animated ? "animate-[dash_3s_linear_infinite]" : ""} 
-                ${isFaded ? "opacity-20" : "opacity-100"}
-                transition-all duration-300
-              `,
+                className: `${edge.animated ? "animate-[dash_3s_linear_infinite]" : ""} ${isFaded ? "opacity-20" : "opacity-100"} transition-all duration-300`,
                 style: edge.animated && isActive ? { strokeDasharray: "8,8" } : {}
               }
-            ), /* @__PURE__ */ import_react3.default.createElement(
-              "circle",
+            ), /* @__PURE__ */ import_react3.default.createElement("circle", { cx: x2, cy: y2, r: "3", fill: isActive ? "#3b82f6" : "#334155", className: `transform transition-all ${isFaded ? "opacity-20" : "opacity-100"}` }), edge.label && /* @__PURE__ */ import_react3.default.createElement(
+              "text",
               {
-                cx: x2,
-                cy: y2,
-                r: "3",
-                fill: isActive ? "#3b82f6" : "#334155",
-                className: `transform transition-all ${isFaded ? "opacity-20" : "opacity-100"}`
-              }
+                x: (x1 + x2) / 2,
+                y: (y1 + y2) / 2 - 8,
+                fill: isActive ? "#94a3b8" : "#64748b",
+                fontSize: "10",
+                textAnchor: "middle",
+                className: `transition-opacity duration-300 ${isFaded ? "opacity-0" : "opacity-100"}`
+              },
+              edge.label
             ))
           );
         }
       });
       setLines(newLines);
-    }, [activeNode]);
+    }, [edges, activeNode]);
     (0, import_react3.useEffect)(() => {
       drawLines();
       window.addEventListener("resize", drawLines);
@@ -21975,92 +22233,204 @@
         clearInterval(intervalId);
       };
     }, [drawLines]);
-    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "min-h-screen bg-[#06090f] text-slate-300 font-sans selection:bg-blue-500/30 overflow-hidden flex flex-col" }, /* @__PURE__ */ import_react3.default.createElement("style", { dangerouslySetInnerHTML: { __html: `
-        @keyframes dash {
-          to {
-            stroke-dashoffset: -24;
-          }
-        }
-        .bg-grid-pattern {
-          background-size: 40px 40px;
-          background-image: 
-            linear-gradient(to right, rgba(255,255,255,0.02) 1px, transparent 1px),
-            linear-gradient(to bottom, rgba(255,255,255,0.02) 1px, transparent 1px);
-        }
-      ` } }), /* @__PURE__ */ import_react3.default.createElement("header", { className: "flex items-center justify-between px-6 py-4 bg-[#0a0f1a]/80 backdrop-blur-md border-b border-slate-800/80 sticky top-0 z-50" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-3" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-2 bg-blue-500/10 rounded-lg border border-blue-500/20" }, /* @__PURE__ */ import_react3.default.createElement(Layers, { className: "w-5 h-5 text-blue-400" })), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h1", { className: "text-lg font-semibold text-slate-100 leading-tight" }, "Enterprise Agent Architecture"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xs text-slate-400" }, "Interactive Flow Diagram"))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-4 text-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-2" }, /* @__PURE__ */ import_react3.default.createElement("span", { className: "relative flex h-2.5 w-2.5" }, /* @__PURE__ */ import_react3.default.createElement("span", { className: "animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500" })), /* @__PURE__ */ import_react3.default.createElement("span", { className: "text-slate-400" }, "System Live")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "px-3 py-1.5 bg-slate-800/50 border border-slate-700 rounded-md flex items-center space-x-2" }, /* @__PURE__ */ import_react3.default.createElement(Activity, { className: "w-4 h-4 text-slate-400" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "font-mono text-xs text-slate-300" }, "Latency: 42ms")))), /* @__PURE__ */ import_react3.default.createElement("main", { className: "flex-1 relative bg-grid-pattern overflow-auto p-8", ref: containerRef }, /* @__PURE__ */ import_react3.default.createElement("svg", { className: "absolute inset-0 w-full h-full pointer-events-none z-0" }, lines), /* @__PURE__ */ import_react3.default.createElement("div", { className: "relative z-10 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-5 gap-6 lg:gap-10 min-w-[1000px] h-full items-start max-w-7xl mx-auto mt-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-12 h-full" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2 pl-2" }, "Ingress"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "user" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "chat_layer" })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-auto pt-24" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2 pl-2" }, "Global Services"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "llm_gateway" }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-8 lg:col-span-2" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-blue-500/70 mb-2 pl-2 border-l-2 border-blue-500/30" }, "LangChain Agent Core"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#0c121e] border border-slate-800/80 rounded-2xl p-6 shadow-2xl relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "absolute inset-0 bg-gradient-to-br from-blue-900/5 to-transparent rounded-2xl pointer-events-none" }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-10 relative z-10" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "gateway" }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col items-center" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "h-4 w-px bg-slate-700/50 my-1" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "orchestrator" }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "h-4 w-px bg-slate-700/50 my-1" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "executor" })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "pt-6 border-t border-slate-800/80" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "synthesizer" })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "pt-8" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2 pl-2" }, "Egress"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "report" }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-16 pt-24" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-rose-500/70 mb-2 pl-2" }, "Execution Layer"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-8" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "rag_pipeline" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "action_exec" })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-12 pt-32" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-emerald-500/70 mb-2 pl-2 flex items-center" }, /* @__PURE__ */ import_react3.default.createElement(Server, { className: "w-3 h-3 mr-1.5" }), " Data & Retrieval"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#081015] border border-emerald-900/30 rounded-xl p-5 shadow-lg space-y-8 relative" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "graph_db" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "vector_db" })))))));
-    function NodeCard({ id }) {
-      const node = NODES.find((n) => n.id === id);
-      if (!node) return null;
-      const style = CATEGORY_STYLES[node.category];
-      const isHovered = activeNode === id;
-      const isFaded = activeNode !== null && activeNode !== id;
-      return /* @__PURE__ */ import_react3.default.createElement(
+    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-full h-full p-8", ref: containerRef }, /* @__PURE__ */ import_react3.default.createElement("svg", { className: "absolute inset-0 w-full h-full pointer-events-none z-0" }, lines), viewType === "arch" ? /* @__PURE__ */ import_react3.default.createElement(ArchitectureLayout, { nodes, nodeRefs, activeNode, setActiveNode }) : /* @__PURE__ */ import_react3.default.createElement(PipelineLayout, { nodes, nodeRefs, activeNode, setActiveNode }));
+  }
+  function ArchitectureLayout({ nodes, nodeRefs, activeNode, setActiveNode }) {
+    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "relative z-10 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-5 gap-6 lg:gap-8 min-w-[1200px] h-full items-start max-w-[1400px] mx-auto mt-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-8 h-full" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-6 bg-[#080d14] p-5 rounded-xl border border-slate-800" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-400 mb-2 pl-1" }, "Input Layer"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "user", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "guard", nodes, nodeRefs, activeNode, setActiveNode })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-auto pt-24 bg-[#0a1411] p-5 rounded-xl border border-emerald-900/40" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-emerald-500 mb-2 pl-1" }, "Egress"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "final", nodes, nodeRefs, activeNode, setActiveNode }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-blue-400 mb-1 pl-2 border-l-2 border-blue-500" }, "Agent Core (pipeline/langgraph)"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#0c121e] border border-blue-900/40 rounded-xl p-5 shadow-xl space-y-8 relative" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "planner", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "h-4 w-px bg-blue-900/50 mx-auto my-1" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "executor", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "h-4 w-px bg-blue-900/50 mx-auto my-1" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "synth", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "pt-6 mt-6 border-t border-blue-900/30" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "state", nodes, nodeRefs, activeNode, setActiveNode })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-10 pt-10" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#120a0f] border border-rose-900/30 rounded-xl p-5 shadow-lg space-y-4 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-rose-400 mb-2 pl-1" }, "Tool Layer (pipeline/tools)"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "t_gr", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "t_likely", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "t_cwe", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "t_cve", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "t_other", nodes, nodeRefs, activeNode, setActiveNode })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#141008] border border-amber-900/30 rounded-xl p-5 shadow-lg space-y-4 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-amber-400 mb-2 pl-1" }, "Policy & Schema"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "hitl", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "schema", nodes, nodeRefs, activeNode, setActiveNode }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-8 pt-16" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#0b0c14] border border-indigo-900/30 rounded-xl p-5 shadow-lg space-y-6 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-indigo-400 mb-2 pl-1" }, "Retrieval (pipeline/graphrag)"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-black/30 p-3 rounded-lg border border-white/5 space-y-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-[10px] text-slate-500 uppercase tracking-widest text-center" }, "Graph Path"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "neo4j", nodes, nodeRefs, activeNode, setActiveNode })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-black/30 p-3 rounded-lg border border-white/5 space-y-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-[10px] text-slate-500 uppercase tracking-widest text-center" }, "Vector Path"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "embedder", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "qdrant", nodes, nodeRefs, activeNode, setActiveNode })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "pt-4 border-t border-indigo-900/30" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "merge", nodes, nodeRefs, activeNode, setActiveNode })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-6 pt-32" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#141008] border border-amber-900/30 rounded-xl p-5 shadow-lg space-y-6 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-amber-400 mb-2 pl-1" }, "LLM Backend"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "groq", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "openrouter", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "ollama", nodes, nodeRefs, activeNode, setActiveNode }))));
+  }
+  function PipelineLayout({ nodes, nodeRefs, activeNode, setActiveNode }) {
+    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "relative z-10 grid grid-cols-1 md:grid-cols-4 gap-6 lg:gap-12 min-w-[1000px] h-full items-start max-w-7xl mx-auto mt-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#0d1014] border border-slate-700/50 rounded-xl p-5 shadow-lg space-y-5 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-bold uppercase tracking-wider text-slate-300 mb-2 pl-1" }, "Phase 1: Collect"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "crawl_nvd", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "crawl_epss", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "crawl_intel", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "crawl_web", nodes, nodeRefs, activeNode, setActiveNode }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-6 pt-12" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#100b14] border border-purple-900/40 rounded-xl p-5 shadow-lg space-y-5 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-bold uppercase tracking-wider text-purple-400 mb-2 pl-1" }, "Phase 2: Correlate"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "b_corr", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "b_cooc", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "col_cwe", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "clus_kev", nodes, nodeRefs, activeNode, setActiveNode }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-6 pt-24" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#081214] border border-cyan-900/40 rounded-xl p-5 shadow-lg space-y-6 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-bold uppercase tracking-wider text-cyan-400 mb-2 pl-1" }, "Phase 3: Build Dataset"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "b_ds", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "stack_prof", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "exp_tp", nodes, nodeRefs, activeNode, setActiveNode }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-10 pt-32" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#0a0f1a] border border-blue-900/40 rounded-xl p-5 shadow-lg space-y-6 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-bold uppercase tracking-wider text-blue-400 mb-2 pl-1" }, "Phase 4: Master & KG"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "b_master", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "load_kg", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "neo_db", nodes, nodeRefs, activeNode, setActiveNode })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#08140f] border border-emerald-900/40 rounded-xl p-5 shadow-lg space-y-6 relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-bold uppercase tracking-wider text-emerald-400 mb-2 pl-1" }, "Phase 5: Vector Ingest"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "gr_embed", nodes, nodeRefs, activeNode, setActiveNode }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "qd_db", nodes, nodeRefs, activeNode, setActiveNode }))));
+  }
+  function NodeCard({ id, nodes, nodeRefs, activeNode, setActiveNode }) {
+    const node = nodes.find((n) => n.id === id);
+    if (!node) return null;
+    const style = CATEGORY_STYLES[node.category];
+    const isHovered = activeNode === id;
+    const isFaded = activeNode !== null && activeNode !== id;
+    return /* @__PURE__ */ import_react3.default.createElement(
+      "div",
+      {
+        ref: (el) => {
+          nodeRefs.current[id] = el;
+        },
+        onMouseEnter: () => setActiveNode(id),
+        onMouseLeave: () => setActiveNode(null),
+        className: `
+        relative group cursor-pointer w-full rounded-xl border transition-all duration-300
+        ${style.bg} ${style.border} 
+        ${isHovered ? `shadow-lg scale-[1.02] ring-1 ring-white/10 z-20 ${style.glow}` : "shadow-md scale-100 z-10"}
+        ${isFaded ? "opacity-30 grayscale-[50%]" : "opacity-100"}
+      `
+      },
+      /* @__PURE__ */ import_react3.default.createElement("div", { className: `px-4 py-3 border-b flex items-center space-x-3 rounded-t-xl transition-colors duration-300 ${style.header} ${isHovered ? "bg-opacity-70" : ""}` }, /* @__PURE__ */ import_react3.default.createElement("div", { className: `p-1.5 rounded-md bg-black/30 ${style.icon}` }, /* @__PURE__ */ import_react3.default.createElement(node.icon, { size: 16, strokeWidth: 2.5 })), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-[13px] font-semibold text-slate-200 tracking-wide" }, node.label))),
+      /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-3 flex flex-col justify-between min-h-[50px]" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-[10px] font-semibold text-slate-400 uppercase tracking-widest mb-2" }, node.subLabel), node.details && /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-1 space-y-1" }, node.details.map((detail, idx) => /* @__PURE__ */ import_react3.default.createElement("div", { key: idx, className: "flex items-start space-x-1.5 text-[11px] text-slate-500 group-hover:text-slate-300 transition-colors" }, /* @__PURE__ */ import_react3.default.createElement(ArrowRight, { size: 10, className: "mt-[2px] opacity-40 flex-shrink-0" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "leading-tight" }, detail)))))
+    );
+  }
+  function SequenceDiagramView() {
+    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-10 max-w-6xl mx-auto overflow-x-auto min-w-[900px]" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex justify-between relative z-10" }, SEQ_ACTORS.map((actor) => /* @__PURE__ */ import_react3.default.createElement("div", { key: actor.id, className: "flex flex-col items-center w-32" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-12 h-12 bg-slate-800 border border-slate-600 rounded-xl flex items-center justify-center shadow-lg mb-4 text-slate-300" }, /* @__PURE__ */ import_react3.default.createElement(actor.icon, { size: 24 })), /* @__PURE__ */ import_react3.default.createElement("span", { className: "text-sm font-semibold text-slate-300 bg-[#06090f] px-2" }, actor.label)))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "relative mt-2 pb-20" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "absolute inset-0 flex justify-between pointer-events-none z-0" }, SEQ_ACTORS.map((actor) => /* @__PURE__ */ import_react3.default.createElement("div", { key: actor.id, className: "w-32 flex justify-center" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-px h-full bg-slate-800 border-l border-dashed border-slate-700" })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "relative z-10 pt-8 flex flex-col space-y-12" }, SEQ_MESSAGES.map((msg, idx) => {
+      const fromIdx = SEQ_ACTORS.findIndex((a) => a.id === msg.from);
+      const toIdx = SEQ_ACTORS.findIndex((a) => a.id === msg.to);
+      const isForward = toIdx > fromIdx;
+      const leftPerc = Math.min(fromIdx, toIdx) * (100 / (SEQ_ACTORS.length - 1));
+      const widthPerc = Math.abs(toIdx - fromIdx) * (100 / (SEQ_ACTORS.length - 1));
+      return /* @__PURE__ */ import_react3.default.createElement("div", { key: idx, className: "relative w-full h-8 group hover:z-20" }, /* @__PURE__ */ import_react3.default.createElement(
         "div",
         {
-          ref: (el) => {
-            nodeRefs.current[id] = el;
-          },
-          onMouseEnter: () => setActiveNode(id),
-          onMouseLeave: () => setActiveNode(null),
-          className: `
-          relative group cursor-pointer w-full rounded-xl border transition-all duration-300
-          ${style.bg} ${style.border} 
-          ${isHovered ? `shadow-lg scale-[1.02] ring-1 ring-white/10 ${style.glow}` : "shadow-md scale-100"}
-          ${isFaded ? "opacity-40 grayscale-[30%]" : "opacity-100"}
-        `
+          className: "absolute flex flex-col items-center transition-transform hover:-translate-y-1",
+          style: { left: `calc(${leftPerc}% + 2rem)`, width: `calc(${widthPerc}% - 4rem)` }
         },
-        /* @__PURE__ */ import_react3.default.createElement("div", { className: `px-4 py-3 border-b flex items-center space-x-3 rounded-t-xl transition-colors duration-300 ${style.header} ${isHovered ? "bg-opacity-50" : ""}` }, /* @__PURE__ */ import_react3.default.createElement("div", { className: `p-1.5 rounded-md bg-black/20 ${style.icon}` }, /* @__PURE__ */ import_react3.default.createElement(node.icon, { size: 18, strokeWidth: 2.5 })), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-sm font-semibold text-slate-200 tracking-wide" }, node.label))),
-        /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 flex flex-col justify-between min-h-[70px]" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xs font-medium text-slate-400 uppercase tracking-wider mb-2" }, node.subLabel), node.details && /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-2 space-y-1.5" }, node.details.map((detail, idx) => /* @__PURE__ */ import_react3.default.createElement("div", { key: idx, className: "flex items-start space-x-1.5 text-xs text-slate-500 group-hover:text-slate-400 transition-colors" }, /* @__PURE__ */ import_react3.default.createElement(ArrowRight, { size: 10, className: "mt-0.5 opacity-50" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "leading-tight" }, detail)))))
-      );
-    }
+        msg.note && /* @__PURE__ */ import_react3.default.createElement("div", { className: "absolute -top-10 bg-amber-900/60 border border-amber-500/50 text-amber-100 text-[10px] px-2 py-1 rounded w-max max-w-xs text-center z-20 shadow-md backdrop-blur-sm" }, msg.note),
+        /* @__PURE__ */ import_react3.default.createElement("div", { className: `text-[11px] font-semibold mb-1 px-2 py-0.5 rounded bg-[#0a0f1a] border border-slate-800 z-10 shadow-sm ${isForward ? "text-blue-300" : "text-slate-400"}` }, msg.label),
+        /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-full flex items-center absolute bottom-0" }, !isForward && /* @__PURE__ */ import_react3.default.createElement(ArrowLeftRight, { className: "w-3 h-3 absolute left-0 -ml-1.5 text-slate-500", strokeWidth: 3 }), /* @__PURE__ */ import_react3.default.createElement("div", { className: `w-full h-px ${msg.solid ? "bg-blue-500/70" : "bg-slate-600"} relative` }, !msg.solid && /* @__PURE__ */ import_react3.default.createElement("div", { className: "absolute inset-0 border-t border-dashed border-[#06090f]" })), isForward && /* @__PURE__ */ import_react3.default.createElement(ArrowRight, { className: "w-3 h-3 absolute right-0 -mr-1.5 text-blue-500", strokeWidth: 3 }))
+      ));
+    }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex justify-between relative z-10 mt-8" }, SEQ_ACTORS.map((actor) => /* @__PURE__ */ import_react3.default.createElement("div", { key: `foot-${actor.id}`, className: "flex flex-col items-center w-32" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-10 h-10 bg-slate-800/50 border border-slate-700 rounded-lg flex items-center justify-center opacity-70" }, /* @__PURE__ */ import_react3.default.createElement(actor.icon, { size: 18, className: "text-slate-500" }))))));
   }
-  var import_react3, NODES, EDGES, CATEGORY_STYLES;
+  var import_react3, CATEGORY_STYLES, ARCH_NODES, ARCH_EDGES, PIPE_NODES, PIPE_EDGES, SEQ_ACTORS, SEQ_MESSAGES;
   var init_workflow_v1 = __esm({
     "workflow_v1.tsx"() {
       "use strict";
       import_react3 = __toESM(require_react());
       init_lucide_react();
-      NODES = [
-        { id: "user", label: "User Query", subLabel: "Input origin", icon: MessageSquare, category: "entry" },
-        { id: "chat_layer", label: "Chat Layer", subLabel: "Query & Intent Validation", icon: ShieldCheck, category: "entry", details: ["Context preparation", "Permission check"] },
-        { id: "gateway", label: "Agent Core Gateway", subLabel: "Routing & Auth", icon: Network, category: "core", details: ["Auth verification", "Task assignment"] },
-        { id: "orchestrator", label: "Task Orchestrator", subLabel: "DAG Planning", icon: GitMerge, category: "core", details: ["Sub-task generation", "Dependency mapping"] },
-        { id: "executor", label: "Task Executor", subLabel: "Tool & Action Execution", icon: Cpu, category: "core", details: ["Tool selection", "Parallel execution"] },
-        { id: "synthesizer", label: "Synthesizer LLM", subLabel: "Response Assembly", icon: Brain, category: "core", details: ["Context merging", "Final formatting"] },
-        { id: "llm_gateway", label: "LLM Gateway", subLabel: "Model Management", icon: Zap, category: "llm", details: ["Temperature & Params", "OpenAI/Anthropic router", "Fallback handling"] },
-        { id: "rag_pipeline", label: "RAG / Search Pipeline", subLabel: "Information Retrieval", icon: Search, category: "tools", details: ["Internet Search", "Query expansion"] },
-        { id: "action_exec", label: "Action Exec & Monitor", subLabel: "External Mutations", icon: Terminal, category: "tools", details: ["API integrations", "State mutations"] },
-        { id: "graph_db", label: "Graph DB Pipeline", subLabel: "Neo4j / Knowledge", icon: Share2, category: "storage", details: ["Graph traversal", "Entity relationship"] },
-        { id: "vector_db", label: "Vector & Relational DB", subLabel: "Qdrant / Postgres", icon: Database, category: "storage", details: ["Semantic search", "Document retrieval"] },
-        { id: "report", label: "Final Output", subLabel: "JSON / Report", icon: FileBraces, category: "entry" }
-      ];
-      EDGES = [
-        { source: "user", target: "chat_layer" },
-        { source: "chat_layer", target: "gateway" },
-        { source: "gateway", target: "orchestrator" },
-        { source: "orchestrator", target: "executor" },
-        { source: "executor", target: "rag_pipeline" },
-        { source: "executor", target: "action_exec" },
-        { source: "rag_pipeline", target: "graph_db" },
-        { source: "rag_pipeline", target: "vector_db" },
-        { source: "graph_db", target: "synthesizer" },
-        { source: "vector_db", target: "synthesizer" },
-        { source: "action_exec", target: "synthesizer" },
-        { source: "executor", target: "synthesizer", dashed: true },
-        { source: "synthesizer", target: "report" },
-        // LLM Gateway connections
-        { source: "gateway", target: "llm_gateway", dashed: true, animated: true },
-        { source: "orchestrator", target: "llm_gateway", dashed: true, animated: true },
-        { source: "executor", target: "llm_gateway", dashed: true, animated: true },
-        { source: "synthesizer", target: "llm_gateway", dashed: true, animated: true }
-      ];
       CATEGORY_STYLES = {
         entry: { border: "border-slate-600", bg: "bg-slate-800", header: "bg-slate-700/50", icon: "text-slate-300", glow: "shadow-slate-500/20" },
         core: { border: "border-blue-500/50", bg: "bg-[#0f172a]", header: "bg-blue-900/30", icon: "text-blue-400", glow: "shadow-blue-500/20" },
         llm: { border: "border-amber-500/50", bg: "bg-[#1a1308]", header: "bg-amber-900/30", icon: "text-amber-400", glow: "shadow-amber-500/20" },
         tools: { border: "border-rose-500/50", bg: "bg-[#1a0f14]", header: "bg-rose-900/30", icon: "text-rose-400", glow: "shadow-rose-500/20" },
-        storage: { border: "border-emerald-500/50", bg: "bg-[#0a1711]", header: "bg-emerald-900/30", icon: "text-emerald-400", glow: "shadow-emerald-500/20" }
+        storage: { border: "border-indigo-500/50", bg: "bg-[#0f111a]", header: "bg-indigo-900/30", icon: "text-indigo-400", glow: "shadow-indigo-500/20" },
+        policy: { border: "border-amber-600/50", bg: "bg-[#1a1508]", header: "bg-amber-900/40", icon: "text-amber-500", glow: "shadow-amber-600/20" },
+        // Pipeline specific categories
+        phase1: { border: "border-slate-500/50", bg: "bg-[#12161c]", header: "bg-slate-800/50", icon: "text-slate-400", glow: "shadow-slate-500/20" },
+        phase2: { border: "border-purple-500/50", bg: "bg-[#140f1a]", header: "bg-purple-900/30", icon: "text-purple-400", glow: "shadow-purple-500/20" },
+        phase3: { border: "border-cyan-500/50", bg: "bg-[#0a1417]", header: "bg-cyan-900/30", icon: "text-cyan-400", glow: "shadow-cyan-500/20" },
+        phase4: { border: "border-blue-500/50", bg: "bg-[#0a111f]", header: "bg-blue-900/30", icon: "text-blue-400", glow: "shadow-blue-500/20" },
+        phase5: { border: "border-emerald-500/50", bg: "bg-[#0a1711]", header: "bg-emerald-900/30", icon: "text-emerald-400", glow: "shadow-emerald-500/20" }
       };
+      ARCH_NODES = [
+        // Input
+        { id: "user", label: "User Query", subLabel: "Input origin", icon: MessageSquare, category: "entry" },
+        { id: "guard", label: "Guardrail Parser", subLabel: "Validation Layer", icon: ShieldCheck, category: "entry", details: ["CVE / CWE regex", "Format validation"] },
+        // Core Agent
+        { id: "planner", label: "Planner Node", subLabel: "Routing & Logic", icon: Brain, category: "core", details: ["Force graphrag_query on CVE + corr", "Force lookup_by_cwe on CWE", "LLM tool selection"] },
+        { id: "executor", label: "Tool Executor Node", subLabel: "Dispatch", icon: Cpu, category: "core", details: ["Dispatch to tool fn", "Append result"] },
+        { id: "synth", label: "Synthesis Node", subLabel: "Final Assembly", icon: GitMerge, category: "core", details: ["Synthesize FINAL JSON", "Raw tool fallback"] },
+        { id: "state", label: "AgentState", subLabel: "Shared Memory", icon: DatabaseZap, category: "core", details: ["query \xB7 memory \xB7 tool_results", "step_num \xB7 pending_tool"] },
+        // Tools
+        { id: "t_gr", label: "graphrag_query", subLabel: "Hybrid Retrieval", icon: Network, category: "tools", details: ["KG + Vector retrieval"] },
+        { id: "t_likely", label: "likely_on_system", subLabel: "Graph Traversal", icon: Share2, category: "tools", details: ["3-tier KG lookup"] },
+        { id: "t_cwe", label: "lookup_by_cwe", subLabel: "CWE Pathway", icon: Search, category: "tools", details: ["CWE \u2192 cluster \u2192 CVEs"] },
+        { id: "t_cve", label: "lookup_cve / fetch_epss", subLabel: "Live APIs", icon: Activity, category: "tools", details: ["NVD + FIRST.org live APIs"] },
+        { id: "t_other", label: "Other Tools", subLabel: "Risk & Pentest", icon: Wrench, category: "tools", details: ["map_owasp \xB7 score_risk", "get_pentest_method"] },
+        // Retrieval & Storage
+        { id: "neo4j", label: "Neo4j Graph", subLabel: "Knowledge DB", icon: Share2, category: "storage", details: ["407k nodes \xB7 6.9M edges", "CORRELATED_WITH \xB7 HAS_CWE"] },
+        { id: "embedder", label: "Embedder", subLabel: "BAAI/bge-small-en-v1.5", icon: Zap, category: "storage", details: ["dim=384 \xB7 CPU"] },
+        { id: "qdrant", label: "Qdrant Cloud", subLabel: "Vector DB", icon: Database, category: "storage", details: ["vuln_kg_evidence_v1", "225k target vectors"] },
+        { id: "merge", label: "Evidence Merge", subLabel: "Aggregation", icon: Funnel, category: "storage", details: ["dedup \xB7 score-sort", "direct vs inferred"] },
+        // LLM Backend
+        { id: "groq", label: "Groq API", subLabel: "Primary LLM", icon: Zap, category: "llm", details: ["llama-3.3-70b-versatile", "llama-3.1-8b-instant"] },
+        { id: "openrouter", label: "OpenRouter", subLabel: "Fallback 1", icon: Network, category: "llm", details: ["llama-3.3-70b \xB7 gemma-3", "Free tier models"] },
+        { id: "ollama", label: "Ollama (Local)", subLabel: "Fallback 2", icon: Server, category: "llm", details: ["llama3.2 \xB7 mistral \xB7 phi3"] },
+        // Policy
+        { id: "hitl", label: "HITL Policy", subLabel: "Safety Layer", icon: CircleAlert, category: "policy", details: ["5 trigger conditions", "low confidence \xB7 sparse evidence"] },
+        { id: "schema", label: "GraphRAGResponse", subLabel: "Structured Output", icon: FileBraces, category: "policy", details: ["status \xB7 entity \xB7 citations", "direct_evidence"] },
+        { id: "final", label: "FINAL Report", subLabel: "JSON Output", icon: FileText, category: "entry" }
+      ];
+      ARCH_EDGES = [
+        { source: "user", target: "guard" },
+        { source: "guard", target: "planner" },
+        { source: "planner", target: "executor" },
+        { source: "executor", target: "synth" },
+        { source: "synth", target: "planner", dashed: true, label: "needs tools" },
+        { source: "executor", target: "t_gr" },
+        { source: "executor", target: "t_likely" },
+        { source: "executor", target: "t_cwe" },
+        { source: "executor", target: "t_cve" },
+        { source: "executor", target: "t_other" },
+        { source: "t_gr", target: "neo4j" },
+        { source: "t_gr", target: "embedder" },
+        { source: "t_likely", target: "neo4j" },
+        { source: "t_cwe", target: "neo4j" },
+        { source: "embedder", target: "qdrant" },
+        { source: "neo4j", target: "merge" },
+        { source: "qdrant", target: "merge" },
+        { source: "merge", target: "hitl" },
+        { source: "hitl", target: "schema" },
+        { source: "schema", target: "executor", dashed: true },
+        { source: "t_other", target: "groq", dashed: true },
+        { source: "synth", target: "groq", animated: true },
+        { source: "groq", target: "openrouter", dashed: true },
+        { source: "openrouter", target: "ollama", dashed: true },
+        { source: "synth", target: "final" }
+      ];
+      PIPE_NODES = [
+        // Phase 1: Collect (Crawlers grouped for visual sanity, detailing the 10+ sources)
+        { id: "crawl_nvd", label: "crawl_nvd.py", subLabel: "raw_nvd.json", icon: Search, category: "phase1", details: ["328k CVEs"] },
+        { id: "crawl_epss", label: "crawl_epss.py", subLabel: "raw_epss.json", icon: Activity, category: "phase1", details: ["305k scores"] },
+        { id: "crawl_intel", label: "Threat Intel Crawlers", subLabel: "KEV, MITRE, ExDB", icon: ShieldAlert, category: "phase1", details: ["raw_cisa_kev.json (1.5k)", "raw_mitre_attack.json"] },
+        { id: "crawl_web", label: "Web Crawlers", subLabel: "GitHub, Blogs, Vendors", icon: Network, category: "phase1", details: ["raw_github.json (3k)", "raw_blogs.json (228)"] },
+        // Phase 2: Correlate
+        { id: "b_corr", label: "build_correlations.py", subLabel: "5.8M links", icon: GitMerge, category: "phase2" },
+        { id: "b_cooc", label: "build_cooccurrence_v2", subLabel: "891k pairs", icon: Share2, category: "phase2" },
+        { id: "col_cwe", label: "collect_cwe_chains.py", subLabel: "raw_cwe_chains.json", icon: Blocks, category: "phase2" },
+        { id: "clus_kev", label: "cluster_kev_campaigns", subLabel: "160k clusters", icon: Layers, category: "phase2" },
+        // Phase 3: Build Dataset
+        { id: "b_ds", label: "build_dataset.py", subLabel: "vuln_dataset.jsonl", icon: DatabaseZap, category: "phase3", details: ["325k rows"] },
+        { id: "stack_prof", label: "stack_profiles.py", subLabel: "To raw_cooccurrence", icon: Workflow, category: "phase3" },
+        { id: "exp_tp", label: "expand_training_pairs.py", subLabel: "training_pairs.jsonl", icon: Network, category: "phase3", details: ["2.6M pairs"] },
+        // Phase 4: Master Build & KG Load
+        { id: "b_master", label: "build_master_dataset.py", subLabel: "master_vuln_context", icon: FileBraces, category: "phase4" },
+        { id: "load_kg", label: "load_kg_master.py", subLabel: "Graph Ingestion", icon: Terminal, category: "phase4" },
+        { id: "neo_db", label: "Neo4j KG", subLabel: "Production Graph", icon: Share2, category: "phase4" },
+        // Phase 5: Vector Ingest
+        { id: "gr_embed", label: "graphrag_embed_index", subLabel: "Qdrant CPU", icon: Brain, category: "phase5" },
+        { id: "qd_db", label: "Qdrant Cloud", subLabel: "Production Vectors", icon: Database, category: "phase5" }
+      ];
+      PIPE_EDGES = [
+        // P1 -> P2
+        { source: "crawl_nvd", target: "b_corr" },
+        { source: "crawl_epss", target: "b_corr" },
+        { source: "crawl_intel", target: "b_corr" },
+        { source: "crawl_web", target: "b_corr" },
+        { source: "crawl_nvd", target: "b_cooc" },
+        { source: "crawl_intel", target: "b_cooc" },
+        // P2 -> P3
+        { source: "b_corr", target: "b_ds" },
+        { source: "b_cooc", target: "b_ds" },
+        { source: "col_cwe", target: "b_ds" },
+        { source: "b_ds", target: "stack_prof" },
+        { source: "b_ds", target: "exp_tp" },
+        // P2/P3 -> P4
+        { source: "b_corr", target: "b_master" },
+        { source: "b_cooc", target: "b_master" },
+        { source: "b_ds", target: "b_master" },
+        { source: "b_master", target: "load_kg" },
+        { source: "load_kg", target: "neo_db" },
+        // P4 -> P5
+        { source: "b_master", target: "gr_embed" },
+        { source: "gr_embed", target: "qd_db" }
+      ];
+      SEQ_ACTORS = [
+        { id: "user", label: "User", icon: User },
+        { id: "planner", label: "Planner", icon: Brain },
+        { id: "tools", label: "Tools", icon: Wrench },
+        { id: "neo4j", label: "Neo4j", icon: Share2 },
+        { id: "qdrant", label: "Qdrant", icon: Database },
+        { id: "hitl", label: "HITL", icon: CircleAlert },
+        { id: "llm", label: "LLM", icon: Zap }
+      ];
+      SEQ_MESSAGES = [
+        { from: "user", to: "planner", label: '"CVE-2021-28310 \u2014 what co-exists?"', solid: true, note: "CVE regex match \u2192 force graphrag_query" },
+        { from: "planner", to: "tools", label: 'graphrag_query({entity: "CVE...", top_k: 20, max_hops: 2})', solid: true },
+        { from: "tools", to: "neo4j", label: "MATCH CVE -[CORRELATED_WITH|CO_OCCURS_WITH]->", solid: true },
+        { from: "neo4j", to: "tools", label: "18 CORRELATED + 2 CO_OCCURS rows", solid: false },
+        { from: "tools", to: "qdrant", label: "vector search (when GRAPHRAG_USE_VECTOR=1)", solid: true },
+        { from: "qdrant", to: "tools", label: "top-k semantic matches", solid: false },
+        { from: "tools", to: "planner", label: "EvidenceItems + Citations (JSON)", solid: false },
+        { from: "planner", to: "hitl", label: "evaluate_hitl_policy(payload)", solid: true },
+        { from: "hitl", to: "planner", label: "{required: false} (confidence 0.652 is OK)", solid: false },
+        { from: "planner", to: "llm", label: "synthesize FINAL JSON report", solid: true },
+        { from: "llm", to: "planner", label: "structured finding", solid: false },
+        { from: "planner", to: "user", label: "FINAL REPORT (JSON)", solid: false }
+      ];
     }
   });
 
@@ -22136,20 +22506,32 @@ lucide-react/dist/esm/shared/src/utils/hasA11yProp.js:
 lucide-react/dist/esm/Icon.js:
 lucide-react/dist/esm/createLucideIcon.js:
 lucide-react/dist/esm/icons/activity.js:
+lucide-react/dist/esm/icons/arrow-left-right.js:
 lucide-react/dist/esm/icons/arrow-right.js:
+lucide-react/dist/esm/icons/blocks.js:
 lucide-react/dist/esm/icons/brain.js:
+lucide-react/dist/esm/icons/circle-alert.js:
 lucide-react/dist/esm/icons/cpu.js:
+lucide-react/dist/esm/icons/database-zap.js:
 lucide-react/dist/esm/icons/database.js:
 lucide-react/dist/esm/icons/file-braces.js:
+lucide-react/dist/esm/icons/file-text.js:
+lucide-react/dist/esm/icons/funnel.js:
 lucide-react/dist/esm/icons/git-merge.js:
+lucide-react/dist/esm/icons/git-pull-request.js:
 lucide-react/dist/esm/icons/layers.js:
+lucide-react/dist/esm/icons/layout-template.js:
 lucide-react/dist/esm/icons/message-square.js:
 lucide-react/dist/esm/icons/network.js:
 lucide-react/dist/esm/icons/search.js:
 lucide-react/dist/esm/icons/server.js:
 lucide-react/dist/esm/icons/share-2.js:
+lucide-react/dist/esm/icons/shield-alert.js:
 lucide-react/dist/esm/icons/shield-check.js:
 lucide-react/dist/esm/icons/terminal.js:
+lucide-react/dist/esm/icons/user.js:
+lucide-react/dist/esm/icons/workflow.js:
+lucide-react/dist/esm/icons/wrench.js:
 lucide-react/dist/esm/icons/zap.js:
 lucide-react/dist/esm/lucide-react.js:
   (**
