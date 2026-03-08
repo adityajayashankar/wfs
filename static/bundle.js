@@ -21595,83 +21595,142 @@
     }
   });
 
-  // node_modules/lucide-react/dist/esm/icons/book-open.js
-  var __iconNode, BookOpen;
-  var init_book_open = __esm({
-    "node_modules/lucide-react/dist/esm/icons/book-open.js"() {
+  // node_modules/lucide-react/dist/esm/icons/activity.js
+  var __iconNode, Activity;
+  var init_activity = __esm({
+    "node_modules/lucide-react/dist/esm/icons/activity.js"() {
       init_createLucideIcon();
       __iconNode = [
-        ["path", { d: "M12 7v14", key: "1akyts" }],
         [
           "path",
           {
-            d: "M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z",
-            key: "ruj8y"
+            d: "M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2",
+            key: "169zse"
           }
         ]
       ];
-      BookOpen = createLucideIcon("book-open", __iconNode);
+      Activity = createLucideIcon("activity", __iconNode);
     }
   });
 
-  // node_modules/lucide-react/dist/esm/icons/chevron-right.js
-  var __iconNode2, ChevronRight;
-  var init_chevron_right = __esm({
-    "node_modules/lucide-react/dist/esm/icons/chevron-right.js"() {
+  // node_modules/lucide-react/dist/esm/icons/arrow-right.js
+  var __iconNode2, ArrowRight;
+  var init_arrow_right = __esm({
+    "node_modules/lucide-react/dist/esm/icons/arrow-right.js"() {
       init_createLucideIcon();
-      __iconNode2 = [["path", { d: "m9 18 6-6-6-6", key: "mthhwq" }]];
-      ChevronRight = createLucideIcon("chevron-right", __iconNode2);
+      __iconNode2 = [
+        ["path", { d: "M5 12h14", key: "1ays0h" }],
+        ["path", { d: "m12 5 7 7-7 7", key: "xquz4c" }]
+      ];
+      ArrowRight = createLucideIcon("arrow-right", __iconNode2);
     }
   });
 
-  // node_modules/lucide-react/dist/esm/icons/circle-question-mark.js
-  var __iconNode3, CircleQuestionMark;
-  var init_circle_question_mark = __esm({
-    "node_modules/lucide-react/dist/esm/icons/circle-question-mark.js"() {
+  // node_modules/lucide-react/dist/esm/icons/brain.js
+  var __iconNode3, Brain;
+  var init_brain = __esm({
+    "node_modules/lucide-react/dist/esm/icons/brain.js"() {
       init_createLucideIcon();
       __iconNode3 = [
-        ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-        ["path", { d: "M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3", key: "1u773s" }],
-        ["path", { d: "M12 17h.01", key: "p32p05" }]
+        ["path", { d: "M12 18V5", key: "adv99a" }],
+        ["path", { d: "M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4", key: "1e3is1" }],
+        ["path", { d: "M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5", key: "1gqd8o" }],
+        ["path", { d: "M17.997 5.125a4 4 0 0 1 2.526 5.77", key: "iwvgf7" }],
+        ["path", { d: "M18 18a4 4 0 0 0 2-7.464", key: "efp6ie" }],
+        ["path", { d: "M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517", key: "1gq6am" }],
+        ["path", { d: "M6 18a4 4 0 0 1-2-7.464", key: "k1g0md" }],
+        ["path", { d: "M6.003 5.125a4 4 0 0 0-2.526 5.77", key: "q97ue3" }]
       ];
-      CircleQuestionMark = createLucideIcon("circle-question-mark", __iconNode3);
+      Brain = createLucideIcon("brain", __iconNode3);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/cpu.js
+  var __iconNode4, Cpu;
+  var init_cpu = __esm({
+    "node_modules/lucide-react/dist/esm/icons/cpu.js"() {
+      init_createLucideIcon();
+      __iconNode4 = [
+        ["path", { d: "M12 20v2", key: "1lh1kg" }],
+        ["path", { d: "M12 2v2", key: "tus03m" }],
+        ["path", { d: "M17 20v2", key: "1rnc9c" }],
+        ["path", { d: "M17 2v2", key: "11trls" }],
+        ["path", { d: "M2 12h2", key: "1t8f8n" }],
+        ["path", { d: "M2 17h2", key: "7oei6x" }],
+        ["path", { d: "M2 7h2", key: "asdhe0" }],
+        ["path", { d: "M20 12h2", key: "1q8mjw" }],
+        ["path", { d: "M20 17h2", key: "1fpfkl" }],
+        ["path", { d: "M20 7h2", key: "1o8tra" }],
+        ["path", { d: "M7 20v2", key: "4gnj0m" }],
+        ["path", { d: "M7 2v2", key: "1i4yhu" }],
+        ["rect", { x: "4", y: "4", width: "16", height: "16", rx: "2", key: "1vbyd7" }],
+        ["rect", { x: "8", y: "8", width: "8", height: "8", rx: "1", key: "z9xiuo" }]
+      ];
+      Cpu = createLucideIcon("cpu", __iconNode4);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/database.js
-  var __iconNode4, Database;
+  var __iconNode5, Database;
   var init_database = __esm({
     "node_modules/lucide-react/dist/esm/icons/database.js"() {
       init_createLucideIcon();
-      __iconNode4 = [
+      __iconNode5 = [
         ["ellipse", { cx: "12", cy: "5", rx: "9", ry: "3", key: "msslwz" }],
         ["path", { d: "M3 5V19A9 3 0 0 0 21 19V5", key: "1wlel7" }],
         ["path", { d: "M3 12A9 3 0 0 0 21 12", key: "mv7ke4" }]
       ];
-      Database = createLucideIcon("database", __iconNode4);
+      Database = createLucideIcon("database", __iconNode5);
     }
   });
 
-  // node_modules/lucide-react/dist/esm/icons/globe.js
-  var __iconNode5, Globe;
-  var init_globe = __esm({
-    "node_modules/lucide-react/dist/esm/icons/globe.js"() {
+  // node_modules/lucide-react/dist/esm/icons/file-braces.js
+  var __iconNode6, FileBraces;
+  var init_file_braces = __esm({
+    "node_modules/lucide-react/dist/esm/icons/file-braces.js"() {
       init_createLucideIcon();
-      __iconNode5 = [
-        ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-        ["path", { d: "M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20", key: "13o1zl" }],
-        ["path", { d: "M2 12h20", key: "9i4pu4" }]
+      __iconNode6 = [
+        [
+          "path",
+          {
+            d: "M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z",
+            key: "1oefj6"
+          }
+        ],
+        ["path", { d: "M14 2v5a1 1 0 0 0 1 1h5", key: "wfsgrz" }],
+        [
+          "path",
+          { d: "M10 12a1 1 0 0 0-1 1v1a1 1 0 0 1-1 1 1 1 0 0 1 1 1v1a1 1 0 0 0 1 1", key: "1oajmo" }
+        ],
+        [
+          "path",
+          { d: "M14 18a1 1 0 0 0 1-1v-1a1 1 0 0 1 1-1 1 1 0 0 1-1-1v-1a1 1 0 0 0-1-1", key: "mpwhp6" }
+        ]
       ];
-      Globe = createLucideIcon("globe", __iconNode5);
+      FileBraces = createLucideIcon("file-braces", __iconNode6);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/git-merge.js
+  var __iconNode7, GitMerge;
+  var init_git_merge = __esm({
+    "node_modules/lucide-react/dist/esm/icons/git-merge.js"() {
+      init_createLucideIcon();
+      __iconNode7 = [
+        ["circle", { cx: "18", cy: "18", r: "3", key: "1xkwt0" }],
+        ["circle", { cx: "6", cy: "6", r: "3", key: "1lh9wr" }],
+        ["path", { d: "M6 21V9a9 9 0 0 0 9 9", key: "7kw0sc" }]
+      ];
+      GitMerge = createLucideIcon("git-merge", __iconNode7);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/layers.js
-  var __iconNode6, Layers;
+  var __iconNode8, Layers;
   var init_layers = __esm({
     "node_modules/lucide-react/dist/esm/icons/layers.js"() {
       init_createLucideIcon();
-      __iconNode6 = [
+      __iconNode8 = [
         [
           "path",
           {
@@ -21694,101 +21753,126 @@
           }
         ]
       ];
-      Layers = createLucideIcon("layers", __iconNode6);
+      Layers = createLucideIcon("layers", __iconNode8);
     }
   });
 
-  // node_modules/lucide-react/dist/esm/icons/lock.js
-  var __iconNode7, Lock;
-  var init_lock = __esm({
-    "node_modules/lucide-react/dist/esm/icons/lock.js"() {
-      init_createLucideIcon();
-      __iconNode7 = [
-        ["rect", { width: "18", height: "11", x: "3", y: "11", rx: "2", ry: "2", key: "1w4ew1" }],
-        ["path", { d: "M7 11V7a5 5 0 0 1 10 0v4", key: "fwvmzm" }]
-      ];
-      Lock = createLucideIcon("lock", __iconNode7);
-    }
-  });
-
-  // node_modules/lucide-react/dist/esm/icons/menu.js
-  var __iconNode8, Menu;
-  var init_menu = __esm({
-    "node_modules/lucide-react/dist/esm/icons/menu.js"() {
-      init_createLucideIcon();
-      __iconNode8 = [
-        ["path", { d: "M4 5h16", key: "1tepv9" }],
-        ["path", { d: "M4 12h16", key: "1lakjw" }],
-        ["path", { d: "M4 19h16", key: "1djgab" }]
-      ];
-      Menu = createLucideIcon("menu", __iconNode8);
-    }
-  });
-
-  // node_modules/lucide-react/dist/esm/icons/shield.js
-  var __iconNode9, Shield;
-  var init_shield = __esm({
-    "node_modules/lucide-react/dist/esm/icons/shield.js"() {
+  // node_modules/lucide-react/dist/esm/icons/message-square.js
+  var __iconNode9, MessageSquare;
+  var init_message_square = __esm({
+    "node_modules/lucide-react/dist/esm/icons/message-square.js"() {
       init_createLucideIcon();
       __iconNode9 = [
+        [
+          "path",
+          {
+            d: "M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z",
+            key: "18887p"
+          }
+        ]
+      ];
+      MessageSquare = createLucideIcon("message-square", __iconNode9);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/network.js
+  var __iconNode10, Network;
+  var init_network = __esm({
+    "node_modules/lucide-react/dist/esm/icons/network.js"() {
+      init_createLucideIcon();
+      __iconNode10 = [
+        ["rect", { x: "16", y: "16", width: "6", height: "6", rx: "1", key: "4q2zg0" }],
+        ["rect", { x: "2", y: "16", width: "6", height: "6", rx: "1", key: "8cvhb9" }],
+        ["rect", { x: "9", y: "2", width: "6", height: "6", rx: "1", key: "1egb70" }],
+        ["path", { d: "M5 16v-3a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3", key: "1jsf9p" }],
+        ["path", { d: "M12 12V8", key: "2874zd" }]
+      ];
+      Network = createLucideIcon("network", __iconNode10);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/search.js
+  var __iconNode11, Search;
+  var init_search = __esm({
+    "node_modules/lucide-react/dist/esm/icons/search.js"() {
+      init_createLucideIcon();
+      __iconNode11 = [
+        ["path", { d: "m21 21-4.34-4.34", key: "14j7rj" }],
+        ["circle", { cx: "11", cy: "11", r: "8", key: "4ej97u" }]
+      ];
+      Search = createLucideIcon("search", __iconNode11);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/server.js
+  var __iconNode12, Server;
+  var init_server = __esm({
+    "node_modules/lucide-react/dist/esm/icons/server.js"() {
+      init_createLucideIcon();
+      __iconNode12 = [
+        ["rect", { width: "20", height: "8", x: "2", y: "2", rx: "2", ry: "2", key: "ngkwjq" }],
+        ["rect", { width: "20", height: "8", x: "2", y: "14", rx: "2", ry: "2", key: "iecqi9" }],
+        ["line", { x1: "6", x2: "6.01", y1: "6", y2: "6", key: "16zg32" }],
+        ["line", { x1: "6", x2: "6.01", y1: "18", y2: "18", key: "nzw8ys" }]
+      ];
+      Server = createLucideIcon("server", __iconNode12);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/share-2.js
+  var __iconNode13, Share2;
+  var init_share_2 = __esm({
+    "node_modules/lucide-react/dist/esm/icons/share-2.js"() {
+      init_createLucideIcon();
+      __iconNode13 = [
+        ["circle", { cx: "18", cy: "5", r: "3", key: "gq8acd" }],
+        ["circle", { cx: "6", cy: "12", r: "3", key: "w7nqdw" }],
+        ["circle", { cx: "18", cy: "19", r: "3", key: "1xt0gg" }],
+        ["line", { x1: "8.59", x2: "15.42", y1: "13.51", y2: "17.49", key: "47mynk" }],
+        ["line", { x1: "15.41", x2: "8.59", y1: "6.51", y2: "10.49", key: "1n3mei" }]
+      ];
+      Share2 = createLucideIcon("share-2", __iconNode13);
+    }
+  });
+
+  // node_modules/lucide-react/dist/esm/icons/shield-check.js
+  var __iconNode14, ShieldCheck;
+  var init_shield_check = __esm({
+    "node_modules/lucide-react/dist/esm/icons/shield-check.js"() {
+      init_createLucideIcon();
+      __iconNode14 = [
         [
           "path",
           {
             d: "M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z",
             key: "oel41y"
           }
-        ]
+        ],
+        ["path", { d: "m9 12 2 2 4-4", key: "dzmm74" }]
       ];
-      Shield = createLucideIcon("shield", __iconNode9);
+      ShieldCheck = createLucideIcon("shield-check", __iconNode14);
     }
   });
 
-  // node_modules/lucide-react/dist/esm/icons/target.js
-  var __iconNode10, Target;
-  var init_target = __esm({
-    "node_modules/lucide-react/dist/esm/icons/target.js"() {
+  // node_modules/lucide-react/dist/esm/icons/terminal.js
+  var __iconNode15, Terminal;
+  var init_terminal = __esm({
+    "node_modules/lucide-react/dist/esm/icons/terminal.js"() {
       init_createLucideIcon();
-      __iconNode10 = [
-        ["circle", { cx: "12", cy: "12", r: "10", key: "1mglay" }],
-        ["circle", { cx: "12", cy: "12", r: "6", key: "1vlfrh" }],
-        ["circle", { cx: "12", cy: "12", r: "2", key: "1c9p78" }]
+      __iconNode15 = [
+        ["path", { d: "M12 19h8", key: "baeox8" }],
+        ["path", { d: "m4 17 6-6-6-6", key: "1yngyt" }]
       ];
-      Target = createLucideIcon("target", __iconNode10);
-    }
-  });
-
-  // node_modules/lucide-react/dist/esm/icons/trending-up.js
-  var __iconNode11, TrendingUp;
-  var init_trending_up = __esm({
-    "node_modules/lucide-react/dist/esm/icons/trending-up.js"() {
-      init_createLucideIcon();
-      __iconNode11 = [
-        ["path", { d: "M16 7h6v6", key: "box55l" }],
-        ["path", { d: "m22 7-8.5 8.5-5-5L2 17", key: "1t1m79" }]
-      ];
-      TrendingUp = createLucideIcon("trending-up", __iconNode11);
-    }
-  });
-
-  // node_modules/lucide-react/dist/esm/icons/x.js
-  var __iconNode12, X;
-  var init_x = __esm({
-    "node_modules/lucide-react/dist/esm/icons/x.js"() {
-      init_createLucideIcon();
-      __iconNode12 = [
-        ["path", { d: "M18 6 6 18", key: "1bl5f8" }],
-        ["path", { d: "m6 6 12 12", key: "d8bk6v" }]
-      ];
-      X = createLucideIcon("x", __iconNode12);
+      Terminal = createLucideIcon("terminal", __iconNode15);
     }
   });
 
   // node_modules/lucide-react/dist/esm/icons/zap.js
-  var __iconNode13, Zap;
+  var __iconNode16, Zap;
   var init_zap = __esm({
     "node_modules/lucide-react/dist/esm/icons/zap.js"() {
       init_createLucideIcon();
-      __iconNode13 = [
+      __iconNode16 = [
         [
           "path",
           {
@@ -21797,196 +21881,186 @@
           }
         ]
       ];
-      Zap = createLucideIcon("zap", __iconNode13);
+      Zap = createLucideIcon("zap", __iconNode16);
     }
   });
 
   // node_modules/lucide-react/dist/esm/lucide-react.js
   var init_lucide_react = __esm({
     "node_modules/lucide-react/dist/esm/lucide-react.js"() {
-      init_circle_question_mark();
+      init_file_braces();
       init_layers();
-      init_book_open();
-      init_chevron_right();
+      init_activity();
+      init_arrow_right();
+      init_brain();
+      init_cpu();
       init_database();
-      init_globe();
-      init_lock();
-      init_menu();
-      init_shield();
-      init_target();
-      init_trending_up();
-      init_x();
+      init_git_merge();
+      init_message_square();
+      init_network();
+      init_search();
+      init_server();
+      init_share_2();
+      init_shield_check();
+      init_terminal();
       init_zap();
     }
   });
 
   // workflow_v1.tsx
   function App() {
-    const [activeSection, setActiveSection] = (0, import_react3.useState)("problem");
-    const [isSidebarOpen, setIsSidebarOpen] = (0, import_react3.useState)(false);
-    const scrollTo = (id) => {
-      const el = document.getElementById(id);
-      if (el) {
-        el.scrollIntoView({ behavior: "smooth", block: "start" });
-        setActiveSection(id);
-        setIsSidebarOpen(false);
-      }
-    };
-    (0, import_react3.useEffect)(() => {
-      const observers = TOC.map((item) => {
-        const el = document.getElementById(item.id);
-        if (!el) return null;
-        const observer = new IntersectionObserver(
-          (entries) => {
-            if (entries[0].isIntersecting) {
-              setActiveSection(item.id);
-            }
-          },
-          { rootMargin: "-20% 0px -70% 0px" }
-        );
-        observer.observe(el);
-        return observer;
+    const containerRef = (0, import_react3.useRef)(null);
+    const nodeRefs = (0, import_react3.useRef)({});
+    const [lines, setLines] = (0, import_react3.useState)([]);
+    const [activeNode, setActiveNode] = (0, import_react3.useState)(null);
+    const drawLines = (0, import_react3.useCallback)(() => {
+      if (!containerRef.current) return;
+      const containerRect = containerRef.current.getBoundingClientRect();
+      const newLines = [];
+      EDGES.forEach((edge, index) => {
+        const sourceNode = nodeRefs.current[edge.source];
+        const targetNode = nodeRefs.current[edge.target];
+        if (sourceNode && targetNode) {
+          const sourceRect = sourceNode.getBoundingClientRect();
+          const targetRect = targetNode.getBoundingClientRect();
+          const x1 = sourceRect.left - containerRect.left + sourceRect.width / 2;
+          const y1 = sourceRect.top - containerRect.top + sourceRect.height / 2;
+          const x2 = targetRect.left - containerRect.left + targetRect.width / 2;
+          const y2 = targetRect.top - containerRect.top + targetRect.height / 2;
+          const isHorizontal = Math.abs(x1 - x2) > Math.abs(y1 - y2);
+          const offset = isHorizontal ? Math.abs(x1 - x2) / 2 : 0;
+          const vOffset = !isHorizontal ? Math.abs(y1 - y2) / 2 : 0;
+          const pathData = `M ${x1} ${y1} C ${x1 + offset} ${y1 + vOffset}, ${x2 - offset} ${y2 - vOffset}, ${x2} ${y2}`;
+          const isActive = activeNode === edge.source || activeNode === edge.target;
+          const isFaded = activeNode && !isActive;
+          newLines.push(
+            /* @__PURE__ */ import_react3.default.createElement("g", { key: `${edge.source}-${edge.target}-${index}`, className: "transition-opacity duration-300" }, /* @__PURE__ */ import_react3.default.createElement("path", { d: pathData, fill: "none", stroke: "transparent", strokeWidth: "15" }), /* @__PURE__ */ import_react3.default.createElement(
+              "path",
+              {
+                d: pathData,
+                fill: "none",
+                stroke: isActive ? "#3b82f6" : "#334155",
+                strokeWidth: isActive ? "2.5" : "1.5",
+                strokeDasharray: edge.dashed ? "6,6" : "none",
+                className: `
+                ${edge.animated ? "animate-[dash_3s_linear_infinite]" : ""} 
+                ${isFaded ? "opacity-20" : "opacity-100"}
+                transition-all duration-300
+              `,
+                style: edge.animated && isActive ? { strokeDasharray: "8,8" } : {}
+              }
+            ), /* @__PURE__ */ import_react3.default.createElement(
+              "circle",
+              {
+                cx: x2,
+                cy: y2,
+                r: "3",
+                fill: isActive ? "#3b82f6" : "#334155",
+                className: `transform transition-all ${isFaded ? "opacity-20" : "opacity-100"}`
+              }
+            ))
+          );
+        }
       });
+      setLines(newLines);
+    }, [activeNode]);
+    (0, import_react3.useEffect)(() => {
+      drawLines();
+      window.addEventListener("resize", drawLines);
+      const timeoutId = setTimeout(drawLines, 200);
+      const intervalId = setInterval(drawLines, 2e3);
       return () => {
-        observers.forEach((obs) => obs?.disconnect());
+        window.removeEventListener("resize", drawLines);
+        clearTimeout(timeoutId);
+        clearInterval(intervalId);
       };
-    }, []);
-    const Td = ({ children, className = "" }) => /* @__PURE__ */ import_react3.default.createElement("td", { className: `p-4 border-b border-slate-200 text-slate-700 align-top ${className}` }, children);
-    const Th = ({ children, className = "" }) => /* @__PURE__ */ import_react3.default.createElement("th", { className: `p-4 bg-slate-50 border-b-2 border-slate-300 text-left font-semibold text-slate-900 align-bottom ${className}` }, children);
-    const MathBlock = ({ children }) => /* @__PURE__ */ import_react3.default.createElement("div", { className: "my-6 p-6 bg-slate-50 border border-slate-200 rounded-xl overflow-x-auto text-center font-mono text-lg text-slate-800 shadow-sm" }, children);
-    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "min-h-screen bg-slate-50 flex font-sans text-slate-800" }, isSidebarOpen && /* @__PURE__ */ import_react3.default.createElement(
-      "div",
-      {
-        className: "fixed inset-0 bg-slate-900/50 z-40 lg:hidden",
-        onClick: () => setIsSidebarOpen(false)
-      }
-    ), /* @__PURE__ */ import_react3.default.createElement("aside", { className: `
-        fixed lg:sticky top-0 h-screen w-72 bg-white border-r border-slate-200 shadow-lg lg:shadow-none z-50
-        transition-transform duration-300 ease-in-out flex flex-col
-        ${isSidebarOpen ? "translate-x-0" : "-translate-x-full lg:translate-x-0"}
-      ` }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-6 border-b border-slate-100 flex justify-between items-center bg-slate-900 text-white" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h1", { className: "text-xl font-bold tracking-tight" }, "RankStack"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xs text-slate-400 font-medium tracking-wider uppercase mt-1" }, "Investor Memo")), /* @__PURE__ */ import_react3.default.createElement("button", { className: "lg:hidden text-slate-400 hover:text-white", onClick: () => setIsSidebarOpen(false) }, /* @__PURE__ */ import_react3.default.createElement(X, { size: 24 }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex-1 overflow-y-auto p-4 space-y-1" }, TOC.map((item) => /* @__PURE__ */ import_react3.default.createElement(
-      "button",
-      {
-        key: item.id,
-        onClick: () => scrollTo(item.id),
-        className: `
-                w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors text-left
-                ${activeSection === item.id ? "bg-blue-50 text-blue-700" : "text-slate-600 hover:bg-slate-50 hover:text-slate-900"}
-              `
-      },
-      /* @__PURE__ */ import_react3.default.createElement("span", { className: `${activeSection === item.id ? "text-blue-500" : "text-slate-400"}` }, item.icon),
-      /* @__PURE__ */ import_react3.default.createElement("span", { className: "truncate" }, item.title)
-    )))), /* @__PURE__ */ import_react3.default.createElement("main", { className: "flex-1 w-full min-w-0 bg-white" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "lg:hidden sticky top-0 z-30 bg-white border-b border-slate-200 p-4 flex items-center justify-between shadow-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center gap-2" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-8 h-8 bg-slate-900 rounded flex items-center justify-center text-white font-bold" }, "R"), /* @__PURE__ */ import_react3.default.createElement("span", { className: "font-semibold text-slate-900" }, "RankStack Memo")), /* @__PURE__ */ import_react3.default.createElement("button", { onClick: () => setIsSidebarOpen(true), className: "p-2 -mr-2 text-slate-600" }, /* @__PURE__ */ import_react3.default.createElement(Menu, { size: 24 }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "max-w-4xl mx-auto px-6 py-12 lg:px-12 lg:py-20 space-y-24" }, /* @__PURE__ */ import_react3.default.createElement("header", { className: "space-y-6 text-center lg:text-left border-b border-slate-200 pb-12" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "inline-flex items-center justify-center lg:justify-start gap-3 px-4 py-2 bg-slate-100 text-slate-700 rounded-full text-sm font-semibold tracking-wide uppercase mb-4" }, /* @__PURE__ */ import_react3.default.createElement(Lock, { size: 16 }), " Confidential | Series Seed / Pre-A"), /* @__PURE__ */ import_react3.default.createElement("h1", { className: "text-4xl lg:text-6xl font-extrabold text-slate-900 tracking-tight leading-tight" }, "RankStack"), /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-2xl lg:text-3xl font-medium text-slate-500" }, "Domain-Aware Credibility Intelligence Engine"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-12 p-8 bg-blue-50 rounded-2xl border border-blue-100 relative overflow-hidden" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "absolute top-0 left-0 w-2 h-full bg-blue-500" }), /* @__PURE__ */ import_react3.default.createElement("blockquote", { className: "text-xl lg:text-2xl font-serif text-slate-800 italic relative z-10 leading-relaxed" }, '"Credibility is one of the largest invisible markets in the world \u2014 and it runs on weak infrastructure."'))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "problem", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Target, { className: "text-blue-500" }), " 1. The Macro Problem"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 leading-relaxed" }, "Institutional credibility is the invisible variable that determines:"), /* @__PURE__ */ import_react3.default.createElement("ul", { className: "space-y-4" }, [
-      { label: "Capital allocation", desc: "LPs, sovereign funds, and impact investors route billions based on perceived institutional quality." },
-      { label: "Talent flow", desc: "Engineers, researchers, and founders choose affiliations based on reputation signals." },
-      { label: "Partnerships", desc: "Corporates, governments, and multilaterals select partners based on trust proxies." },
-      { label: "Government funding", desc: "Public grants, subsidies, and policy incentives follow perceived legitimacy." },
-      { label: "Reputation economics", desc: "Brand premium, pricing power, and network access are direct functions of credibility." }
-    ].map((item, i) => /* @__PURE__ */ import_react3.default.createElement("li", { key: i, className: "flex gap-4 p-4 bg-slate-50 rounded-xl border border-slate-100" }, /* @__PURE__ */ import_react3.default.createElement(ChevronRight, { className: "text-blue-500 shrink-0 mt-1", size: 20 }), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("strong", { className: "text-slate-900" }, item.label), " \u2014 ", item.desc)))), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg font-medium text-slate-800 mt-6" }, "These are not marginal decisions. They are ", /* @__PURE__ */ import_react3.default.createElement("strong", null, "load-bearing decisions"), " in the global economy."), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 leading-relaxed" }, "Yet the infrastructure supporting these decisions is:"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/3" }, "Current State"), /* @__PURE__ */ import_react3.default.createElement(Th, null, "Reality"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Spreadsheet-based")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Most institutional evaluations live in Excel files maintained by analysts with inconsistent methodologies.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Consulting-led")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "McKinsey, Deloitte, and niche advisory firms produce bespoke reports \u2014 expensive, slow, non-reproducible.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Static")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Rankings are published annually. The world moves quarterly.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Backward-looking")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Historical data dominates. Leading indicators are ignored.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Politically biased")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Ranking bodies have funding dependencies, editorial conflicts, and methodological opacity.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Easily manipulated")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Institutions optimize for ranking inputs rather than genuine performance \u2014 metric gaming is systemic."))))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-6 bg-slate-900 text-white rounded-xl space-y-4 shadow-lg mt-8" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "font-semibold text-red-400" }, "The core failure:"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg" }, "Trust measurement today is artisan, not engineered. It is editorial, not computational. It is periodic, not continuous. It is brittle, not adaptive."), /* @__PURE__ */ import_react3.default.createElement("ul", { className: "space-y-2 text-slate-300 font-medium" }, /* @__PURE__ */ import_react3.default.createElement("li", null, "\u2022 There is no Bloomberg Terminal for institutional credibility."), /* @__PURE__ */ import_react3.default.createElement("li", null, "\u2022 There is no Moody's for non-financial trust."), /* @__PURE__ */ import_react3.default.createElement("li", null, "\u2022 There is no programmable infrastructure layer for structured, domain-aware, confidence-weighted credibility intelligence.")), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xl font-bold text-white pt-4" }, "That gap is RankStack."))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "why-not-built", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(CircleQuestionMark, { className: "text-blue-500" }), " 2. Why Has This Not Been Built in 50 Years?"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 leading-relaxed" }, "Rankings have existed since the 1970s \u2014 U.S. News, QS, Times Higher Education, various incubator lists, fund performance tables. Yet none of them are dynamic, adaptive, confidence-weighted, anti-gaming, or governance-aware."), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 leading-relaxed" }, "This is not because nobody tried. It is because ", /* @__PURE__ */ import_react3.default.createElement("strong", null, "the technical prerequisites did not exist.")), /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-800 mt-8 mb-4" }, "What was missing:"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/3" }, "Prerequisite"), /* @__PURE__ */ import_react3.default.createElement(Th, null, "Why It Was Unavailable"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "LLM-based reasoning")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Decomposing qualitative credibility into structured evaluation dimensions requires natural language understanding at scale. Pre-2022, this was not production-viable.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Weight mutation modeling")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Treating ranking weights as conditional variables \u2014 not fixed constants \u2014 requires optimization frameworks that can respond to contextual signals in real time. This required modern ML infrastructure.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Large-scale contextual scoring")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Scoring across heterogeneous domains requires a context engine that dynamically adapts its evaluation frame. Static models cannot do this.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Anti-gaming detection")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Identifying metric manipulation requires anomaly detection, non-linear curves, and hidden parameters. This requires adversarial ML capabilities.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Intelligence-first governance")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Governance systems were document-first. Intelligence-first governance (continuous scoring, adaptive thresholds) is a post-AI concept.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Compute economics")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Running multi-agent evaluation pipelines across thousands of institutions was cost-prohibitive before the 2023\u20132025 AI cost collapse.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Data reconciliation")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Cross-referencing claims against independent sources at scale required pipelines only economically viable with modern ETL + LLM extraction."))))), /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-800 mt-8 mb-4" }, "What changed:"), /* @__PURE__ */ import_react3.default.createElement("ul", { className: "grid grid-cols-1 md:grid-cols-2 gap-4" }, [
-      "LLM agents that can reason about domain-specific evaluation criteria.",
-      "Multi-criteria optimization frameworks that handle weight conditionality.",
-      "Context engines that adapt scoring frames to domain descriptors.",
-      "Real-time data ingestion pipelines at marginal cost.",
-      "AI cost collapse \u2014 GPT-4 class inference dropped 100x in 18 months."
-    ].map((text, i) => /* @__PURE__ */ import_react3.default.createElement("li", { key: i, className: "bg-white p-4 rounded-xl shadow-sm border border-slate-100 flex gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Zap, { className: "text-yellow-500 shrink-0", size: 20 }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "text-slate-700" }, text)))), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg font-bold text-blue-600 mt-6 bg-blue-50 p-4 rounded-lg inline-block" }, "The structural preconditions converged in 2024\u20132025. RankStack is built on that convergence.")), /* @__PURE__ */ import_react3.default.createElement("section", { id: "insight", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Zap, { className: "text-blue-500" }), " 3. The Insight"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-6 bg-indigo-50 border border-indigo-100 rounded-2xl" }, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-2xl font-bold text-indigo-900 mb-2" }, "Credibility is decomposable."), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-indigo-800 text-lg" }, "Trust is not a feeling. It is not a brand. It is not a reputation. It is a ", /* @__PURE__ */ import_react3.default.createElement("strong", null, "structured, domain-sensitive, weighted function of measurable signals."))), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 leading-relaxed" }, "For any institution \u2014 an incubator, a university, a venture fund, a hospital, a CSR partner, a research lab \u2014 credibility can be expressed as:"), /* @__PURE__ */ import_react3.default.createElement(MathBlock, null, String.raw`$$C(i) = \sum_{d=1}^{D} w_d(ctx) \cdot S_d(i) \cdot \alpha_d(freshness) \cdot \beta_d(confidence)$$`), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-50 p-4 rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("ul", { className: "space-y-2 font-mono text-sm text-slate-700" }, /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "C(i)"), " = Composite credibility score for institution i"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "w_d(ctx)"), " = Context-dependent weight for dimension d"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "S_d(i)"), " = Raw signal score for dimension d"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "\u03B1_d"), " = Freshness decay factor"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "\u03B2_d"), " = Confidence multiplier from multi-source reconciliation"))), /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-2xl font-bold text-slate-900 mt-8 mb-4" }, "The critical insight: weights must change."), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 mb-4" }, "Depending on:"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/4" }, "Factor"), /* @__PURE__ */ import_react3.default.createElement(Th, null, "Example"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Domain")), /* @__PURE__ */ import_react3.default.createElement(Td, null, '"Mentor quality" matters differently for a biotech incubator vs. a consumer tech accelerator.')), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Geography")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Regulatory compliance weight increases in EU vs. US contexts.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Stage")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Early-stage incubators are evaluated on founder access; late-stage on exit track record.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Maturity")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "A 2-year-old program is scored differently than a 15-year institution.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Policy intent")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "A government scoring incubators for subsidy allocation weights job creation; a VC scoring weights portfolio IRR.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Economic cycle")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "In downturns, survival metrics dominate. In growth cycles, scale metrics dominate."))))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-8 p-6 bg-red-50 border border-red-100 rounded-xl text-red-900" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg font-bold mb-2" }, "Static ranking models are mathematically flawed."), /* @__PURE__ */ import_react3.default.createElement("p", null, "They assign fixed weights to dimensions whose importance is contextually variable. This is not a UX problem. It is a structural modeling error. RankStack treats this as an engineering problem, not an editorial one."))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "product", className: "scroll-mt-24 space-y-8" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3 mb-6" }, /* @__PURE__ */ import_react3.default.createElement(Layers, { className: "text-blue-500" }), " 4. The Product"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600 leading-relaxed mb-8" }, "RankStack is a ", /* @__PURE__ */ import_react3.default.createElement("strong", null, "4-layer credibility intelligence architecture"), " built on LLM-based reasoning agents, structured evaluation frameworks, and lightweight data connectors."), /* @__PURE__ */ import_react3.default.createElement("div", { className: "border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-50 p-6 border-b border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-900" }, "Layer 1 \u2014 Domain Modeling Agent"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mt-2" }, "The system begins with a domain descriptor that defines the ecosystem being evaluated.")), /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "divide-y divide-slate-100" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "w-1/4 font-semibold" }, "Reads descriptors"), /* @__PURE__ */ import_react3.default.createElement(Td, null, 'Accepts inputs like "biotech incubators in India," "Tier-2 university research labs in Southeast Asia," etc.')), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Generates dimensions"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "The LLM agent decomposes the domain. For incubators: mentor quality, capital access, alumni outcomes, etc.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Defines sub-metrics"), /* @__PURE__ */ import_react3.default.createElement(Td, null, 'Each dimension is broken down. "Mentor quality" \u2192 mentor-to-cohort ratio, mentor domain relevance, mentor NPS.')), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Understands context"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Differentiates between biotech and fintech, seed-stage VC and growth-equity. Dimensions and weights shift accordingly.")))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 bg-slate-100 text-sm font-medium text-slate-800 border-t border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Output:"), " A structured evaluation schema \u2014 generated in seconds, not weeks.")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-50 p-6 border-b border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-900" }, "Layer 2 \u2014 Dynamic Scoring Engine"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mt-2" }, "Processes institutional data based on the evaluation schema.")), /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "divide-y divide-slate-100" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "w-1/4 font-semibold" }, "Multi-criteria scoring"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Computed from ingested data, disclosed records, and LLM-extracted signals.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Weight mutation"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Weights are conditional variables. Modeled as: ", /* @__PURE__ */ import_react3.default.createElement("code", { className: "bg-slate-100 px-1 rounded text-pink-600" }, String.raw`$$w_d^{t+1} = f(w_d^t, \Delta ctx)$$`))), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Relative percentile"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Institutions are scored relative to the evaluated cohort, not absolute thresholds. Prevents artificial tiering.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Non-linear curves"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Diminishing returns penalize gaming at ceiling levels.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Context rebalancing"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Automated weight rebalancing upon detecting domain shifts (e.g., regulatory changes).")))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 bg-slate-100 text-sm font-medium text-slate-800 border-t border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Output:"), " Percentile-ranked scores, tier classifications, and dimensional breakdowns.")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-50 p-6 border-b border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-900" }, "Layer 3 \u2014 Validation & Confidence Engine"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mt-2" }, "Enforces trust in the output. Raw scores are only as reliable as the data they consume.")), /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "divide-y divide-slate-100" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "w-1/4 font-semibold" }, "Multi-source recon"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Every data point is cross-referenced. Self-reported claims vs. government registries, media, alumni records.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Confidence scoring"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Modeled as: ", /* @__PURE__ */ import_react3.default.createElement("code", { className: "bg-slate-100 px-1 rounded text-pink-600" }, String.raw`$$\beta_d = \frac{n_{corroborated}}{n_{total}} \cdot q_{source\_reliability}$$`))), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Freshness decay"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Data depreciates. Modeled as: ", /* @__PURE__ */ import_react3.default.createElement("code", { className: "bg-slate-100 px-1 rounded text-pink-600" }, String.raw`$$\alpha(t) = e^{-\lambda(t_{now} - t_{data})}$$`))), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Anomaly detection"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Statistical outliers (e.g., unrealistic portfolio exits) trigger variance alerts.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Anti-gaming flags"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Suspicious metric patterns trigger manual review or confidence downgrade.")))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 bg-slate-100 text-sm font-medium text-slate-800 border-t border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Output:"), " Confidence-adjusted scores, freshness-weighted rankings, and risk flags.")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-50 p-6 border-b border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-900" }, "Layer 4 \u2014 Intelligence Interface"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mt-2" }, "Delivers actionable intelligence to decision-makers.")), /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "divide-y divide-slate-100" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "w-1/4 font-semibold text-blue-800 bg-blue-50/50" }, "Capital allocators"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "LP/GP intelligence \u2014 which funds or incubators are genuine performers?")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold text-blue-800 bg-blue-50/50" }, "Governments"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Subsidy allocation \u2014 which institutions merit public funding?")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold text-blue-800 bg-blue-50/50" }, "CSR funds"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Deployment partner intelligence \u2014 which NGOs are credible?")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold text-blue-800 bg-blue-50/50" }, "Corporates"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Partnership selection \u2014 which labs are domain-relevant?")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold text-blue-800 bg-blue-50/50" }, "Talent pipelines"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Institutional quality signals for career investments.")))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-6 bg-slate-900 text-white border-t border-slate-200 text-center" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-300 text-sm uppercase tracking-wide font-semibold mb-4" }, "Every output is a composite signal:"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "font-mono text-lg bg-black/30 p-4 rounded-lg inline-block border border-slate-700 shadow-inner" }, String.raw`$$\text{Output}(i) = \text{Rank}_{\%ile} + \text{Confidence}_\beta + \text{Freshness}_\alpha + \text{Risk}_{flag}$$`), /* @__PURE__ */ import_react3.default.createElement("p", { className: "mt-4 font-semibold text-blue-400" }, "Not a number. Not a tier. A multi-dimensional credibility intelligence object.")))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "tech-diff", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Database, { className: "text-blue-500" }), " 5. Technical Differentiation"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-8" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-2xl font-bold text-slate-800 mb-3" }, "5.1 Dynamic Weight Mutation"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mb-4" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "The problem with every existing ranking:"), " Weights are fixed. QS assigns 40% to academic reputation editorially. It doesn't change when the domain shifts."), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mb-4" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "RankStack's approach:"), " Weights are modeled as conditional variables governed by policy functions, shifting based on:"), /* @__PURE__ */ import_react3.default.createElement("ul", { className: "list-disc list-inside space-y-2 text-slate-700 bg-white p-6 rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Domain triggers"), " (Biotech vs. Social Enterprise)"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Temporal triggers"), " (Recession vs. Expansion)"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Policy triggers"), " (Government subsidy vs. VC allocation)"), /* @__PURE__ */ import_react3.default.createElement("li", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Maturity triggers"), " (1-year vs. 10-year program)"))), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-2xl font-bold text-slate-800 mb-3" }, "5.2 Confidence-Weighted Outputs"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mb-4" }, "Every score includes Primary Score (percentile), Confidence Score (probability-adjusted reliability), and Freshness Factor (decay-adjusted). This allows distinction between:"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "grid grid-cols-1 md:grid-cols-2 gap-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 bg-green-50 border border-green-200 rounded-xl text-green-900" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Institution A:"), " Rank 85th, Confidence 0.92, Freshness 0.88", /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("span", { className: "font-bold text-green-700 mt-2 block" }, "\u2192 High-conviction signal")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 bg-orange-50 border border-orange-200 rounded-xl text-orange-900" }, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Institution B:"), " Rank 87th, Confidence 0.41, Freshness 0.55", /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("span", { className: "font-bold text-orange-700 mt-2 block" }, "\u2192 Weak signal, likely stale")))), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-2xl font-bold text-slate-800 mb-3" }, "5.3 Anti-Gaming Architecture"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, null, "Mechanism"), /* @__PURE__ */ import_react3.default.createElement(Th, null, "Function"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Non-linear scoring")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Diminishing returns at high metric values to eliminate inflation incentives.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Hidden parameters")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "A subset of blended parameters are opaque to the evaluated institution. You cannot game what you cannot see.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Anomaly detection")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Flags sudden 3\u03C3+ improvements, metric clustering, and source concentration.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Variance alerts")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Flags divergence between self-reported data and third-party corroboration.")))))), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-2xl font-bold text-slate-800 mb-3" }, "5.4 Relative Ranking & 5.5 Governance"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-50 p-6 rounded-xl border border-slate-200 space-y-4 text-slate-700" }, /* @__PURE__ */ import_react3.default.createElement("p", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Relative Percentile Logic:"), " Reduces legal exposure, prevents rigid tiering, and adapts to cohort quality dynamically."), /* @__PURE__ */ import_react3.default.createElement("p", null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Governance-Aware:"), " Embeds policy intent mapping, regulatory compliance hooks, and full audit trails directly into the scoring frameworks."))))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "market-entry", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Globe, { className: "text-blue-500" }), " 6. Initial Market Entry"), /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-800 mt-6 mb-2" }, "Wedge Strategy"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 mb-4" }, "Enter where evaluation is politically sensitive, capital flows immediately follow scores, static models fail, and unstructured data exists."), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200 mb-8" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/3" }, "Vertical"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/3" }, "Pain Point"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/3" }, "RankStack Value"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Incubator / Accelerator Rating")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "India alone has 700+ incubators with no structured scoring. Funding relies on anecdote."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Dynamic, confidence-weighted intelligence for capital allocators.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "CSR Partner Intelligence")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Corporates deploy mandatory CSR based on relationships. Misallocation is systemic."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Structured scoring of NGOs and deployment partners.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Venture Fund Track Record")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Performance is self-reported, vintage-dependent, and rarely comparable."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Normalized evaluation with temporal decay and domain adjustment.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "University Innovation")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Existing rankings are reputation-heavy. Innovation output is poorly measured."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "R&D-focused institutional scoring dynamically weighted."))))), /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold text-slate-800 mt-6 mb-4" }, "Expansion Path (Wedge \u2192 Platform)"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-900 text-green-400 font-mono text-sm p-6 rounded-xl overflow-x-auto shadow-inner" }, /* @__PURE__ */ import_react3.default.createElement("pre", { className: "whitespace-pre-wrap leading-loose" }, "Incubator Rating (Year 1)", "\n", "\xA0\xA0\u2192 University Innovation Scoring (Year 2)", "\n", "\xA0\xA0\u2192 VC Fund Intelligence (Year 2\u20133)", "\n", "\xA0\xA0\u2192 CSR/ESG Partner Scoring (Year 2\u20133)", "\n", "\xA0\xA0\u2192 Healthcare Institutional Credibility (Year 3\u20134)", "\n", "\xA0\xA0\u2192 Cross-domain Credibility Infrastructure (Year 4+)"))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "market-size", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(TrendingUp, { className: "text-blue-500" }), " 7. Market Size"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/3" }, "Market"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/4" }, "Annual Value"), /* @__PURE__ */ import_react3.default.createElement(Th, null, "RankStack Role"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Institutional ranking & benchmarking")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$4\u20136B"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Replace static ranking with adaptive intelligence.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Management consulting (DD)")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$50B+"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Augment or replace manual evaluation workflows.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "ESG compliance & reporting")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$15\u201320B"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Provide credibility scoring for partner networks.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Government grant allocation")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$500B+"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Inform allocation through structured scoring."))))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-8 p-6 bg-blue-50 border-l-4 border-blue-500 text-blue-900" }, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-xl font-bold mb-2" }, "The Real Market"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "mb-2" }, 'RankStack does not compete in the "ranking products" market. It competes in the ', /* @__PURE__ */ import_react3.default.createElement("strong", null, "institutional decision infrastructure"), " market."), /* @__PURE__ */ import_react3.default.createElement("p", null, "The total value influenced by institutional credibility measurement is measured in ", /* @__PURE__ */ import_react3.default.createElement("strong", null, "trillions"), ", not billions. RankStack captures value by becoming the scoring layer embedded in these decision flows."))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "business-model", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(BookOpen, { className: "text-blue-500" }), " 8. Business Model"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/4" }, "Revenue Layer"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/2" }, "Description"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/4" }, "Pricing Model"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Enterprise SaaS")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Full platform access for allocators and evaluation teams."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$50K\u2013$500K / yr")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Govt Contracts")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Bespoke scoring for governments evaluating institutions."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$200K\u2013$2M / project")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Data Subscriptions")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "API access for research, media, and analytics platforms."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$10K\u2013$100K / yr")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Embedded APIs")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "White-label engine embedded in third-party investor portals."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Per-query + minimum")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Consulting Aug.")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Intelligence packages for consulting firms."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "$5K\u2013$50K / report")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "AUM-Linked")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Credibility-adjusted allocation models for LPs."), /* @__PURE__ */ import_react3.default.createElement(Td, null, "1\u20135 bps on capital"))))), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg font-bold text-slate-800 mt-6 text-center" }, "End state: RankStack becomes embedded governance infrastructure \u2014 the trust layer underlying institutional decision-making.")), /* @__PURE__ */ import_react3.default.createElement("section", { id: "consulting", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Shield, { className: "text-blue-500" }), " 9. Why Consulting Firms Won't Win"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/6" }, "Factor"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-5/12 text-slate-500" }, "Consulting Firm Reality"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-5/12 text-blue-700 bg-blue-50/50" }, "RankStack Reality"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Model")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Monetize opacity. Revenue scales with information asymmetry."), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "bg-blue-50/20" }, "Monetize infrastructure. Revenue scales with adoption.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Output")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "PDF reports. Project-based. Delivered quarterly at best."), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "bg-blue-50/20" }, "Living system. API-first. Continuously updated.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, null, /* @__PURE__ */ import_react3.default.createElement("strong", null, "Scale")), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Revenue grows linearly with headcount."), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "bg-blue-50/20" }, "Revenue grows with compute. 10k institutions = 100."))))), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-center italic text-slate-600" }, "Consulting firms will be customers, not competitors. They will embed RankStack to arm themselves.")), /* @__PURE__ */ import_react3.default.createElement("section", { id: "big-tech", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Lock, { className: "text-blue-500" }), " 10. Why Big Tech Won't Easily Copy"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "grid gap-4 md:grid-cols-2" }, [
-      { title: "Domain Modeling", desc: "General-purpose AI fails at deep, localized credibility criteria without specialized architecture." },
-      { title: "Governance Sensitivity", desc: "Scoring universities or governments invites regulatory scrutiny and backlash Big Tech avoids." },
-      { title: "Reputational Risk", desc: "High downside, low strategic relevance. A bad rank by Google is a PR crisis." },
-      { title: "Incentive Misalignment", desc: "Big Tech monetizes ads and cloud compute. Credibility is a governance product." }
-    ].map((item, i) => /* @__PURE__ */ import_react3.default.createElement("div", { key: i, className: "bg-white p-6 border border-slate-200 rounded-xl shadow-sm" }, /* @__PURE__ */ import_react3.default.createElement("h4", { className: "font-bold text-slate-900 mb-2" }, item.title), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600 text-sm" }, item.desc)))), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg font-medium text-slate-800 bg-slate-100 p-4 rounded-lg text-center" }, "Trust compounds. A 3-year head start creates a moat capital alone cannot replicate.")), /* @__PURE__ */ import_react3.default.createElement("section", { id: "why-now", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Zap, { className: "text-blue-500" }), " 11. Why Now"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white divide-y divide-slate-100" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "w-1/3 font-semibold" }, "Agentic AI maturity"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "LLM agents capable of domain reasoning and multi-criteria evaluation are production-ready.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Institutional digitization"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Registries, filings, and disclosures are increasingly machine-readable.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "Transparency pressure"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Stakeholders demand structured accountability. Opacity is a liability.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "ESG mandates"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Regulatory frameworks (EU CSRD, India CSR) require structured evaluation.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-semibold" }, "AI cost collapse"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Multi-agent pipelines that cost $1M/yr in 2022 now cost $10K\u2013$50K/yr.")))))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "defensibility", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Shield, { className: "text-blue-500" }), " 12. Defensibility"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-lg text-slate-600" }, "RankStack's defensibility is a ", /* @__PURE__ */ import_react3.default.createElement("strong", null, "layered moat"), " that compounds over time."), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-900 text-blue-300 font-mono text-sm p-6 rounded-xl overflow-x-auto shadow-inner mb-6" }, /* @__PURE__ */ import_react3.default.createElement("pre", { className: "whitespace-pre-wrap leading-relaxed" }, "Year 0\u20131:  Technical differentiation (weight mutation, confidence layering)", "\n", "Year 1\u20132:  Dataset accumulation (longitudinal institutional data)", "\n", "Year 2\u20133:  Trust network lock-in (institutions participate willingly)", "\n", "Year 3\u20135:  Embedded infrastructure (integrated into policy workflows)", "\n", "Year 5+:   Switching cost dominance (data history is irreplaceable)")), /* @__PURE__ */ import_react3.default.createElement("p", { className: "font-bold text-slate-800 text-lg" }, "Switching Cost Dynamics"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600" }, "After 3-5 years, switching means abandoning years of verified institutional history built into government frameworks and LP due diligence. The cost is informational, not financial.")), /* @__PURE__ */ import_react3.default.createElement("section", { id: "risks", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(Target, { className: "text-blue-500" }), " 13. Risks & Mitigation"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("thead", null, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/5" }, "Risk"), /* @__PURE__ */ import_react3.default.createElement(Th, { className: "w-1/12 text-center" }, "Severity"), /* @__PURE__ */ import_react3.default.createElement(Th, null, "Mitigation"))), /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-bold" }, "Political capture"), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "text-center text-red-600 font-bold" }, "High"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Methodological transparency. Independent advisory boards. Refuse exclusive contracts compromising independence.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-bold" }, "Legal disputes"), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "text-center text-red-600 font-bold" }, "High"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Relative scoring reduces declaratory risk. Auditable data trails. Institutional response mechanism.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-bold" }, "Data manipulation"), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "text-center text-orange-500 font-bold" }, "Med"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Multi-source recon, anomaly detection, confidence downgrade.")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-bold" }, "Bias accusations"), /* @__PURE__ */ import_react3.default.createElement(Td, { className: "text-center text-red-600 font-bold" }, "High"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Full weight transparency. Built-in bias auditing. Third-party audits.")))))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "vision", className: "scroll-mt-24 space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3" }, /* @__PURE__ */ import_react3.default.createElement(TrendingUp, { className: "text-blue-500" }), " 14. Long-Term Vision"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex gap-4 items-start" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-24 shrink-0 font-bold text-slate-400" }, "2026\u20132028"), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("strong", { className: "text-slate-800 block mb-1" }, "Foundation"), " Launch incubator intel, expand to CSR, establish government contracts, build dataset.")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex gap-4 items-start" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-24 shrink-0 font-bold text-blue-400" }, "2028\u20132030"), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("strong", { className: "text-slate-800 block mb-1" }, "Expansion"), " Cross-domain platform (healthcare, VC), embedded APIs, international scale.")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex gap-4 items-start" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "w-24 shrink-0 font-bold text-blue-600" }, "2030\u20132035"), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("strong", { className: "text-slate-800 block mb-1" }, "Infrastructure"), " Default credibility layer globally. Programmable governance. Trust as infrastructure."))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-8 bg-blue-900 text-white rounded-2xl text-center mt-8 shadow-xl" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xl font-serif italic mb-4" }, '"In 10 years, capital decisions will run through adaptive trust engines. Institutional performance will be continuously scored. Governance will become programmable. Trust will be infrastructure."'), /* @__PURE__ */ import_react3.default.createElement("p", { className: "font-bold text-blue-300 uppercase tracking-widest text-sm" }, "RankStack is building the trust layer of the institutional economy."))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "faq", className: "scroll-mt-24 space-y-8" }, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-3xl font-bold text-slate-900 flex items-center gap-3 mb-8" }, /* @__PURE__ */ import_react3.default.createElement(CircleQuestionMark, { className: "text-blue-500" }), " 15. Top 15 Investor Questions"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-6" }, [
-      {
-        q: "Q1: Is this a ranking company?",
-        a: "No. RankStack is a credibility intelligence infrastructure company. Rankings are a surface-level output like search results are to Google. The core product is the scoring engine."
-      },
-      {
-        q: "Q2: What if government builds internal?",
-        a: "Governments build procurement systems, not intelligence engines. They lack the AI architecture and independence. Governments are buyers, not builders."
-      },
-      {
-        q: "Q3: How do you avoid lawsuits?",
-        a: "1. Relative percentile scoring. 2. Full auditability. 3. Institutional response mechanism. 4. Defamation insurance."
-      },
-      {
-        q: "Q4: What data is proprietary?",
-        a: "Longitudinal institutional performance datasets, weight mutation patterns, and anti-gaming adversarial models."
-      },
-      {
-        q: "Q5: Can this scale internationally?",
-        a: "Yes\u2014 by design. The Domain Modeling Agent adjusts frames based on inputs ('Biotech in Germany' vs 'Fintech in Nigeria'). Geographic context is an input variable, not a hardcode."
-      },
-      {
-        q: "Q6: What is the first $1M revenue path?",
-        a: "3-5 government contracts ($200K-$400K) + 10-20 enterprise SaaS licenses ($50K-$100K) within 12-18 months."
-      },
-      {
-        q: "Q7: How long until moat forms?",
-        a: "Hard moat: 24\u201336 months (data/network). Deep moat: 48\u201360 months (embedded policy)."
-      },
-      {
-        q: "Q8: What assumption kills you?",
-        a: "If institutions universally refuse transparency and markets remain satisfied with opaque, anecdotal reputation evaluation."
-      },
-      {
-        q: "Q9: Why will incumbents lose?",
-        a: "QS/US News rely on ads/brands. Consultants rely on manual opacity. An automated, transparent engine destroys their current revenue models."
-      },
-      {
-        q: "Q12: Is this venture-backable?",
-        a: "Yes. Large TAM, compounding moat, high-margin software economics, and platform expansion dynamics. It's an infrastructure business, not a services firm."
-      },
-      {
-        q: "Q13: What makes this 100x not 5x?",
-        a: "5x is an incubator ranking SaaS. 100x is the embedded API powering every LP allocation and government subsidy globally. The Moody's of non-financial trust."
-      },
-      {
-        q: "Q14: Why isn't this just analytics?",
-        a: "Analytics is descriptive and flat. RankStack is prescriptive, forward-weighted (decay), multi-source reconciled, and confidence-layered."
-      }
-    ].map((faq, i) => /* @__PURE__ */ import_react3.default.createElement("div", { key: i, className: "bg-white p-6 rounded-xl border border-slate-200 shadow-sm transition-shadow hover:shadow-md" }, /* @__PURE__ */ import_react3.default.createElement("h4", { className: "text-lg font-bold text-slate-900 mb-2" }, faq.q), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-slate-600" }, faq.a))))), /* @__PURE__ */ import_react3.default.createElement("section", { id: "appendices", className: "scroll-mt-24 space-y-12 border-t-2 border-slate-200 pt-12" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-2xl font-bold text-slate-900 mb-6" }, "Appendix A: Technical Architecture Summary"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-slate-900 text-blue-300 p-6 rounded-2xl overflow-x-auto font-mono text-sm leading-tight shadow-xl border border-slate-800" }, /* @__PURE__ */ import_react3.default.createElement("pre", null, `\u250C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510
-\u2502                    INTELLIGENCE INTERFACE                       \u2502
-\u2502  Capital Allocators \u2502 Governments \u2502 CSR \u2502 Corporates \u2502 Talent   \u2502
-\u251C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524
-\u2502                VALIDATION & CONFIDENCE ENGINE                   \u2502
-\u2502  Multi-Source Reconciliation \u2502 Confidence Scoring \u2502 Freshness   \u2502
-\u2502  Decay \u2502 Anomaly Detection \u2502 Anti-Gaming Flags                  \u2502
-\u251C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524
-\u2502                    DYNAMIC SCORING ENGINE                       \u2502
-\u2502  Multi-Criteria Weighted Scoring \u2502 Weight Mutation Logic \u2502      \u2502
-\u2502  Relative Percentile \u2502 Non-Linear Curves \u2502 Context Rebalancing  \u2502
-\u251C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524
-\u2502                    DOMAIN MODELING AGENT                        \u2502
-\u2502  Ecosystem Descriptor \u2502 Dimension Generation \u2502 Sub-Metric       \u2502
-\u2502  Mapping \u2502 Context Understanding \u2502 Schema Output                \u2502
-\u251C\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524
-\u2502                      DATA SUBSTRATE                             \u2502
-\u2502  Government Registries \u2502 Corporate Filings \u2502 Research DBs \u2502     \u2502
-\u2502  Media \u2502 Self-Reported \u2502 Third-Party APIs \u2502 Alumni Records      \u2502
-\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518`))), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h2", { className: "text-2xl font-bold text-slate-900 mb-6" }, "Appendix B: Scoring Formula"), /* @__PURE__ */ import_react3.default.createElement(MathBlock, null, String.raw`$$C(i) = \sum_{d=1}^{D} w_d(ctx) \cdot S_d(i) \cdot \alpha_d(t) \cdot \beta_d(sources)$$`), /* @__PURE__ */ import_react3.default.createElement("div", { className: "overflow-x-auto rounded-xl border border-slate-200 mb-6" }, /* @__PURE__ */ import_react3.default.createElement("table", { className: "w-full text-sm" }, /* @__PURE__ */ import_react3.default.createElement("tbody", { className: "bg-white divide-y divide-slate-100" }, /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-mono font-bold w-1/6 bg-slate-50" }, "C(i)"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Composite credibility score for institution i")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-mono font-bold bg-slate-50" }, "D"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Number of evaluation dimensions")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-mono font-bold bg-slate-50" }, "w_d(ctx)"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Context-dependent weight for dimension d (function of domain, stage, etc.)")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-mono font-bold bg-slate-50" }, "S_d(i)"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Normalized signal score for dimension d")), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-mono font-bold bg-slate-50" }, "\u03B1_d(t)"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Freshness decay: ", /* @__PURE__ */ import_react3.default.createElement("code", { className: "text-pink-600 bg-pink-50 px-1 rounded" }, String.raw`$$e^{-\lambda_d(t_{now} - t_{data})}$$`))), /* @__PURE__ */ import_react3.default.createElement("tr", null, /* @__PURE__ */ import_react3.default.createElement(Td, { className: "font-mono font-bold bg-slate-50" }, "\u03B2_d"), /* @__PURE__ */ import_react3.default.createElement(Td, null, "Confidence multiplier: (corroborated / total) \xD7 source reliability"))))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-6 bg-slate-100 rounded-xl text-center" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "font-bold text-slate-600 mb-2 uppercase text-sm tracking-widest" }, "Output per institution"), /* @__PURE__ */ import_react3.default.createElement("code", { className: "text-lg font-mono font-bold text-slate-900 bg-white px-4 py-2 border border-slate-300 rounded shadow-sm" }, String.raw`$$\text{Output}(i) = \left[ \text{Rank}_{\%ile},\ \beta_{composite},\ \alpha_{composite},\ \text{Flags}_{risk} \right]$$`)))), /* @__PURE__ */ import_react3.default.createElement("footer", { className: "pt-12 pb-24 text-center text-slate-500 border-t border-slate-200 mt-24" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "font-medium text-slate-800 mb-2" }, "RankStack \u2014 Structuring trust for the institutional economy."), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-sm" }, "Confidential. For investor discussion only.")))));
+    }, [drawLines]);
+    return /* @__PURE__ */ import_react3.default.createElement("div", { className: "min-h-screen bg-[#06090f] text-slate-300 font-sans selection:bg-blue-500/30 overflow-hidden flex flex-col" }, /* @__PURE__ */ import_react3.default.createElement("style", { dangerouslySetInnerHTML: { __html: `
+        @keyframes dash {
+          to {
+            stroke-dashoffset: -24;
+          }
+        }
+        .bg-grid-pattern {
+          background-size: 40px 40px;
+          background-image: 
+            linear-gradient(to right, rgba(255,255,255,0.02) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(255,255,255,0.02) 1px, transparent 1px);
+        }
+      ` } }), /* @__PURE__ */ import_react3.default.createElement("header", { className: "flex items-center justify-between px-6 py-4 bg-[#0a0f1a]/80 backdrop-blur-md border-b border-slate-800/80 sticky top-0 z-50" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-3" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-2 bg-blue-500/10 rounded-lg border border-blue-500/20" }, /* @__PURE__ */ import_react3.default.createElement(Layers, { className: "w-5 h-5 text-blue-400" })), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h1", { className: "text-lg font-semibold text-slate-100 leading-tight" }, "Enterprise Agent Architecture"), /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xs text-slate-400" }, "Interactive Flow Diagram"))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-4 text-sm" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex items-center space-x-2" }, /* @__PURE__ */ import_react3.default.createElement("span", { className: "relative flex h-2.5 w-2.5" }, /* @__PURE__ */ import_react3.default.createElement("span", { className: "animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500" })), /* @__PURE__ */ import_react3.default.createElement("span", { className: "text-slate-400" }, "System Live")), /* @__PURE__ */ import_react3.default.createElement("div", { className: "px-3 py-1.5 bg-slate-800/50 border border-slate-700 rounded-md flex items-center space-x-2" }, /* @__PURE__ */ import_react3.default.createElement(Activity, { className: "w-4 h-4 text-slate-400" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "font-mono text-xs text-slate-300" }, "Latency: 42ms")))), /* @__PURE__ */ import_react3.default.createElement("main", { className: "flex-1 relative bg-grid-pattern overflow-auto p-8", ref: containerRef }, /* @__PURE__ */ import_react3.default.createElement("svg", { className: "absolute inset-0 w-full h-full pointer-events-none z-0" }, lines), /* @__PURE__ */ import_react3.default.createElement("div", { className: "relative z-10 grid grid-cols-1 md:grid-cols-4 lg:grid-cols-5 gap-6 lg:gap-10 min-w-[1000px] h-full items-start max-w-7xl mx-auto mt-4" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-12 h-full" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-6" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2 pl-2" }, "Ingress"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "user" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "chat_layer" })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-auto pt-24" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2 pl-2" }, "Global Services"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "llm_gateway" }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-8 lg:col-span-2" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-blue-500/70 mb-2 pl-2 border-l-2 border-blue-500/30" }, "LangChain Agent Core"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#0c121e] border border-slate-800/80 rounded-2xl p-6 shadow-2xl relative" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "absolute inset-0 bg-gradient-to-br from-blue-900/5 to-transparent rounded-2xl pointer-events-none" }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-10 relative z-10" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "gateway" }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col items-center" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "h-4 w-px bg-slate-700/50 my-1" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "orchestrator" }), /* @__PURE__ */ import_react3.default.createElement("div", { className: "h-4 w-px bg-slate-700/50 my-1" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "executor" })), /* @__PURE__ */ import_react3.default.createElement("div", { className: "pt-6 border-t border-slate-800/80" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "synthesizer" })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "pt-8" }, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-slate-500 mb-2 pl-2" }, "Egress"), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "report" }))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-16 pt-24" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-rose-500/70 mb-2 pl-2" }, "Execution Layer"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "space-y-8" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "rag_pipeline" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "action_exec" })))), /* @__PURE__ */ import_react3.default.createElement("div", { className: "flex flex-col space-y-12 pt-32" }, /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("div", { className: "text-xs font-semibold uppercase tracking-wider text-emerald-500/70 mb-2 pl-2 flex items-center" }, /* @__PURE__ */ import_react3.default.createElement(Server, { className: "w-3 h-3 mr-1.5" }), " Data & Retrieval"), /* @__PURE__ */ import_react3.default.createElement("div", { className: "bg-[#081015] border border-emerald-900/30 rounded-xl p-5 shadow-lg space-y-8 relative" }, /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "graph_db" }), /* @__PURE__ */ import_react3.default.createElement(NodeCard, { id: "vector_db" })))))));
+    function NodeCard({ id }) {
+      const node = NODES.find((n) => n.id === id);
+      if (!node) return null;
+      const style = CATEGORY_STYLES[node.category];
+      const isHovered = activeNode === id;
+      const isFaded = activeNode !== null && activeNode !== id;
+      return /* @__PURE__ */ import_react3.default.createElement(
+        "div",
+        {
+          ref: (el) => {
+            nodeRefs.current[id] = el;
+          },
+          onMouseEnter: () => setActiveNode(id),
+          onMouseLeave: () => setActiveNode(null),
+          className: `
+          relative group cursor-pointer w-full rounded-xl border transition-all duration-300
+          ${style.bg} ${style.border} 
+          ${isHovered ? `shadow-lg scale-[1.02] ring-1 ring-white/10 ${style.glow}` : "shadow-md scale-100"}
+          ${isFaded ? "opacity-40 grayscale-[30%]" : "opacity-100"}
+        `
+        },
+        /* @__PURE__ */ import_react3.default.createElement("div", { className: `px-4 py-3 border-b flex items-center space-x-3 rounded-t-xl transition-colors duration-300 ${style.header} ${isHovered ? "bg-opacity-50" : ""}` }, /* @__PURE__ */ import_react3.default.createElement("div", { className: `p-1.5 rounded-md bg-black/20 ${style.icon}` }, /* @__PURE__ */ import_react3.default.createElement(node.icon, { size: 18, strokeWidth: 2.5 })), /* @__PURE__ */ import_react3.default.createElement("div", null, /* @__PURE__ */ import_react3.default.createElement("h3", { className: "text-sm font-semibold text-slate-200 tracking-wide" }, node.label))),
+        /* @__PURE__ */ import_react3.default.createElement("div", { className: "p-4 flex flex-col justify-between min-h-[70px]" }, /* @__PURE__ */ import_react3.default.createElement("p", { className: "text-xs font-medium text-slate-400 uppercase tracking-wider mb-2" }, node.subLabel), node.details && /* @__PURE__ */ import_react3.default.createElement("div", { className: "mt-2 space-y-1.5" }, node.details.map((detail, idx) => /* @__PURE__ */ import_react3.default.createElement("div", { key: idx, className: "flex items-start space-x-1.5 text-xs text-slate-500 group-hover:text-slate-400 transition-colors" }, /* @__PURE__ */ import_react3.default.createElement(ArrowRight, { size: 10, className: "mt-0.5 opacity-50" }), /* @__PURE__ */ import_react3.default.createElement("span", { className: "leading-tight" }, detail)))))
+      );
+    }
   }
-  var import_react3, TOC;
+  var import_react3, NODES, EDGES, CATEGORY_STYLES;
   var init_workflow_v1 = __esm({
     "workflow_v1.tsx"() {
       "use strict";
       import_react3 = __toESM(require_react());
       init_lucide_react();
-      TOC = [
-        { id: "problem", title: "1. The Macro Problem", icon: /* @__PURE__ */ import_react3.default.createElement(Target, { size: 18 }) },
-        { id: "why-not-built", title: "2. Why Has This Not Been Built?", icon: /* @__PURE__ */ import_react3.default.createElement(CircleQuestionMark, { size: 18 }) },
-        { id: "insight", title: "3. The Insight", icon: /* @__PURE__ */ import_react3.default.createElement(Zap, { size: 18 }) },
-        { id: "product", title: "4. The Product", icon: /* @__PURE__ */ import_react3.default.createElement(Layers, { size: 18 }) },
-        { id: "tech-diff", title: "5. Technical Differentiation", icon: /* @__PURE__ */ import_react3.default.createElement(Database, { size: 18 }) },
-        { id: "market-entry", title: "6. Initial Market Entry", icon: /* @__PURE__ */ import_react3.default.createElement(Globe, { size: 18 }) },
-        { id: "market-size", title: "7. Market Size", icon: /* @__PURE__ */ import_react3.default.createElement(TrendingUp, { size: 18 }) },
-        { id: "business-model", title: "8. Business Model", icon: /* @__PURE__ */ import_react3.default.createElement(BookOpen, { size: 18 }) },
-        { id: "consulting", title: "9. Why Consulting Firms Won't Win", icon: /* @__PURE__ */ import_react3.default.createElement(Shield, { size: 18 }) },
-        { id: "big-tech", title: "10. Why Big Tech Won't Easily Copy", icon: /* @__PURE__ */ import_react3.default.createElement(Lock, { size: 18 }) },
-        { id: "why-now", title: "11. Why Now", icon: /* @__PURE__ */ import_react3.default.createElement(Zap, { size: 18 }) },
-        { id: "defensibility", title: "12. Defensibility", icon: /* @__PURE__ */ import_react3.default.createElement(Shield, { size: 18 }) },
-        { id: "risks", title: "13. Risks & Mitigation", icon: /* @__PURE__ */ import_react3.default.createElement(Target, { size: 18 }) },
-        { id: "vision", title: "14. Long-Term Vision", icon: /* @__PURE__ */ import_react3.default.createElement(TrendingUp, { size: 18 }) },
-        { id: "faq", title: "15. Top 15 Investor Questions", icon: /* @__PURE__ */ import_react3.default.createElement(CircleQuestionMark, { size: 18 }) },
-        { id: "appendices", title: "Appendices", icon: /* @__PURE__ */ import_react3.default.createElement(Layers, { size: 18 }) }
+      NODES = [
+        { id: "user", label: "User Query", subLabel: "Input origin", icon: MessageSquare, category: "entry" },
+        { id: "chat_layer", label: "Chat Layer", subLabel: "Query & Intent Validation", icon: ShieldCheck, category: "entry", details: ["Context preparation", "Permission check"] },
+        { id: "gateway", label: "Agent Core Gateway", subLabel: "Routing & Auth", icon: Network, category: "core", details: ["Auth verification", "Task assignment"] },
+        { id: "orchestrator", label: "Task Orchestrator", subLabel: "DAG Planning", icon: GitMerge, category: "core", details: ["Sub-task generation", "Dependency mapping"] },
+        { id: "executor", label: "Task Executor", subLabel: "Tool & Action Execution", icon: Cpu, category: "core", details: ["Tool selection", "Parallel execution"] },
+        { id: "synthesizer", label: "Synthesizer LLM", subLabel: "Response Assembly", icon: Brain, category: "core", details: ["Context merging", "Final formatting"] },
+        { id: "llm_gateway", label: "LLM Gateway", subLabel: "Model Management", icon: Zap, category: "llm", details: ["Temperature & Params", "OpenAI/Anthropic router", "Fallback handling"] },
+        { id: "rag_pipeline", label: "RAG / Search Pipeline", subLabel: "Information Retrieval", icon: Search, category: "tools", details: ["Internet Search", "Query expansion"] },
+        { id: "action_exec", label: "Action Exec & Monitor", subLabel: "External Mutations", icon: Terminal, category: "tools", details: ["API integrations", "State mutations"] },
+        { id: "graph_db", label: "Graph DB Pipeline", subLabel: "Neo4j / Knowledge", icon: Share2, category: "storage", details: ["Graph traversal", "Entity relationship"] },
+        { id: "vector_db", label: "Vector & Relational DB", subLabel: "Qdrant / Postgres", icon: Database, category: "storage", details: ["Semantic search", "Document retrieval"] },
+        { id: "report", label: "Final Output", subLabel: "JSON / Report", icon: FileBraces, category: "entry" }
       ];
+      EDGES = [
+        { source: "user", target: "chat_layer" },
+        { source: "chat_layer", target: "gateway" },
+        { source: "gateway", target: "orchestrator" },
+        { source: "orchestrator", target: "executor" },
+        { source: "executor", target: "rag_pipeline" },
+        { source: "executor", target: "action_exec" },
+        { source: "rag_pipeline", target: "graph_db" },
+        { source: "rag_pipeline", target: "vector_db" },
+        { source: "graph_db", target: "synthesizer" },
+        { source: "vector_db", target: "synthesizer" },
+        { source: "action_exec", target: "synthesizer" },
+        { source: "executor", target: "synthesizer", dashed: true },
+        { source: "synthesizer", target: "report" },
+        // LLM Gateway connections
+        { source: "gateway", target: "llm_gateway", dashed: true, animated: true },
+        { source: "orchestrator", target: "llm_gateway", dashed: true, animated: true },
+        { source: "executor", target: "llm_gateway", dashed: true, animated: true },
+        { source: "synthesizer", target: "llm_gateway", dashed: true, animated: true }
+      ];
+      CATEGORY_STYLES = {
+        entry: { border: "border-slate-600", bg: "bg-slate-800", header: "bg-slate-700/50", icon: "text-slate-300", glow: "shadow-slate-500/20" },
+        core: { border: "border-blue-500/50", bg: "bg-[#0f172a]", header: "bg-blue-900/30", icon: "text-blue-400", glow: "shadow-blue-500/20" },
+        llm: { border: "border-amber-500/50", bg: "bg-[#1a1308]", header: "bg-amber-900/30", icon: "text-amber-400", glow: "shadow-amber-500/20" },
+        tools: { border: "border-rose-500/50", bg: "bg-[#1a0f14]", header: "bg-rose-900/30", icon: "text-rose-400", glow: "shadow-rose-500/20" },
+        storage: { border: "border-emerald-500/50", bg: "bg-[#0a1711]", header: "bg-emerald-900/30", icon: "text-emerald-400", glow: "shadow-emerald-500/20" }
+      };
     }
   });
 
@@ -22061,18 +22135,21 @@ lucide-react/dist/esm/defaultAttributes.js:
 lucide-react/dist/esm/shared/src/utils/hasA11yProp.js:
 lucide-react/dist/esm/Icon.js:
 lucide-react/dist/esm/createLucideIcon.js:
-lucide-react/dist/esm/icons/book-open.js:
-lucide-react/dist/esm/icons/chevron-right.js:
-lucide-react/dist/esm/icons/circle-question-mark.js:
+lucide-react/dist/esm/icons/activity.js:
+lucide-react/dist/esm/icons/arrow-right.js:
+lucide-react/dist/esm/icons/brain.js:
+lucide-react/dist/esm/icons/cpu.js:
 lucide-react/dist/esm/icons/database.js:
-lucide-react/dist/esm/icons/globe.js:
+lucide-react/dist/esm/icons/file-braces.js:
+lucide-react/dist/esm/icons/git-merge.js:
 lucide-react/dist/esm/icons/layers.js:
-lucide-react/dist/esm/icons/lock.js:
-lucide-react/dist/esm/icons/menu.js:
-lucide-react/dist/esm/icons/shield.js:
-lucide-react/dist/esm/icons/target.js:
-lucide-react/dist/esm/icons/trending-up.js:
-lucide-react/dist/esm/icons/x.js:
+lucide-react/dist/esm/icons/message-square.js:
+lucide-react/dist/esm/icons/network.js:
+lucide-react/dist/esm/icons/search.js:
+lucide-react/dist/esm/icons/server.js:
+lucide-react/dist/esm/icons/share-2.js:
+lucide-react/dist/esm/icons/shield-check.js:
+lucide-react/dist/esm/icons/terminal.js:
 lucide-react/dist/esm/icons/zap.js:
 lucide-react/dist/esm/lucide-react.js:
   (**
